@@ -1,6 +1,6 @@
 ## Purpose
 
-Keeps the public `data/*.json` market files fresh by reading live prices from tgju.org pages in a real browser. The published structure, field set and symbol set stay identical to the imported `iran-market.github.io` snapshot.
+Keeps the public `data/*.json` market files fresh by reading live prices from tgju.org pages in a real browser. The published structure, field set and symbol set stay identical to the imported upstream snapshot.
 
 ## ADDED Requirements
 
@@ -63,7 +63,7 @@ For each of the 128 history files, the publisher SHALL upsert the candle for the
 - **THEN** a new last candle is appended and the previous day's candle is unchanged
 
 ### Requirement: Public URLs point to this repository
-All absolute public URLs in data files and site files SHALL use this repository's owner, name, branch and Pages origin, taken from one configured value, in place of `iran-market/iran-market.github.io`.
+All absolute public URLs in data files and site files SHALL use this repository's owner, name, branch and Pages origin, taken from one configured value, in place of the upstream repository's URLs.
 
 #### Scenario: Manifest URL
 - **WHEN** the repository is `hidevs/tabloo` on branch `main`

@@ -9,3 +9,6 @@ node_modules/
 *.log
 .DS_Store
 data/**/*.tmp-*
+
+# local editor config (machine-specific paths)
+.cursor/

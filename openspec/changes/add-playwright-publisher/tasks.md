@@ -29,7 +29,7 @@
 
 ## 6. Rebrand URLs
 
-- [x] 6.1 Replace `iran-market` URLs and "Iran Market" names with `hidevs/tabloo` / Tabloo across site, docs and data (done before implementation; JSON shapes verified unchanged, site loads with 0 console errors)
+- [x] 6.1 Replace upstream URLs and brand names with `hidevs/tabloo` / Tabloo across site, docs and data (done before implementation; JSON shapes verified unchanged, site loads with 0 console errors)
 
 ## 7. Scheduling
 
