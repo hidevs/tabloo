@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iran-market.github.io/sitemap.xml
+Sitemap: https://hidevs.github.io/tabloo/sitemap.xml

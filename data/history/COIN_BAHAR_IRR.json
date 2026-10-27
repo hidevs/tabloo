@@ -45835,7 +45835,7 @@
     "next_cursor": null,
     "published_at": "2026-10-26T21:30:01.440Z",
     "update_frequency_minutes": 1440,
-    "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_BAHAR_IRR.json",
+    "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_IRR.json",
     "currency": "IRT"
   }
 }

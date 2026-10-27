@@ -2,7 +2,7 @@
 
 // Keep JSON traffic off GitHub Pages. Raw GitHub's shorter cache window is preferable
 // to the optional jsDelivr mirror for these frequently refreshed market snapshots.
-const PUBLIC_ROOT = 'https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data';
+const PUBLIC_ROOT = 'https://raw.githubusercontent.com/hidevs/tabloo/main/data';
 const DATA_ROOT = PUBLIC_ROOT;
 const POPULAR_SYMBOLS = new Set(['USD_IRR_FREE', 'GOLD_18K_IRR', 'COIN_EMAMI_IRR', 'USDT_IRR', 'EUR_IRR_FREE', 'GBP_IRR_FREE']);
 

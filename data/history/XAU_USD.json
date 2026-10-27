@@ -53978,7 +53978,7 @@
     "next_cursor": null,
     "published_at": "2026-10-26T21:00:01.506Z",
     "update_frequency_minutes": 1440,
-    "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/XAU_USD.json",
+    "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
     "currency": "USD"
   }
 }

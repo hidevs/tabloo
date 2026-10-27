@@ -44245,7 +44245,7 @@
     "next_cursor": null,
     "published_at": "2026-10-26T20:30:01.387Z",
     "update_frequency_minutes": 1440,
-    "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_24K_IRR.json",
+    "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_24K_IRR.json",
     "currency": "IRT"
   }
 }

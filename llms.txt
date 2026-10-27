@@ -1,20 +1,20 @@
-# Iran Market Data
+# Tabloo
 
 Public, no-auth JSON files for current and historical Iranian market prices.
 
 Use raw.githubusercontent.com URLs below for current data (about 5 minutes of cache). The optional
-jsDelivr form is https://cdn.jsdelivr.net/gh/iran-market/iran-market.github.io@main/data/{FILE},
+jsDelivr form is https://cdn.jsdelivr.net/gh/hidevs/tabloo@main/data/{FILE},
 which can cache the main branch for about 12 hours.
 
-- Website and documentation: https://iran-market.github.io/
-- All latest prices in toman: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest-toman.json
-- Curated popular prices: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json
-- Complete canonical symbol guide: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json
-- Complete published-history directory: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/index.json
-- USD/IRR daily OHLC history: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USD_IRR_FREE.json
-- Gold 18K/IRR daily OHLC history: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/GOLD_18K_IRR.json
-- Emami coin/IRR daily OHLC history: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COIN_EMAMI_IRR.json
-- USDT/IRR daily OHLC history: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USDT_IRR.json
-- Manifest and update metadata: https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/manifest.json
+- Website and documentation: https://hidevs.github.io/tabloo/
+- All latest prices in toman: https://raw.githubusercontent.com/hidevs/tabloo/main/data/latest-toman.json
+- Curated popular prices: https://raw.githubusercontent.com/hidevs/tabloo/main/data/popular.json
+- Complete canonical symbol guide: https://raw.githubusercontent.com/hidevs/tabloo/main/data/symbols.json
+- Complete published-history directory: https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/index.json
+- USD/IRR daily OHLC history: https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USD_IRR_FREE.json
+- Gold 18K/IRR daily OHLC history: https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_IRR.json
+- Emami coin/IRR daily OHLC history: https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_IRR.json
+- USDT/IRR daily OHLC history: https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USDT_IRR.json
+- Manifest and update metadata: https://raw.githubusercontent.com/hidevs/tabloo/main/data/manifest.json
 
 Current-price files update every 30 minutes. Daily-history files update once per day. Current upstream source: TGJU. Prices are informational.

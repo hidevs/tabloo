@@ -1,7 +1,7 @@
 <h1 dir="rtl" align="right">راهنمای شناسه‌های بازار</h1>
 
 <p dir="rtl" align="right">
-این صفحه شناسه‌هایی را توضیح می‌دهد که در فایل‌های JSON این مخزن استفاده می‌شوند. فهرست کامل و ماشین‌خوان در <a href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json"><code>data/symbols.json</code></a> قرار دارد و هر ۳۰ دقیقه همراه داده‌های قیمت به‌روزرسانی می‌شود. فهرست قطعی تاریخچه‌های منتشرشده، تعداد رکورد و بازهٔ زمانی هرکدام نیز در <a href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/index.json"><code>data/history/index.json</code></a> قرار دارد و روزانه تازه می‌شود.
+این صفحه شناسه‌هایی را توضیح می‌دهد که در فایل‌های JSON این مخزن استفاده می‌شوند. فهرست کامل و ماشین‌خوان در <a href="https://raw.githubusercontent.com/hidevs/tabloo/main/data/symbols.json"><code>data/symbols.json</code></a> قرار دارد و هر ۳۰ دقیقه همراه داده‌های قیمت به‌روزرسانی می‌شود. فهرست قطعی تاریخچه‌های منتشرشده، تعداد رکورد و بازهٔ زمانی هرکدام نیز در <a href="https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/index.json"><code>data/history/index.json</code></a> قرار دارد و روزانه تازه می‌شود.
 </p>
 
 <h2 dir="rtl" align="right">شناسه‌های پرکاربرد و بررسی‌شده</h2>
@@ -47,7 +47,7 @@
 <h2 dir="rtl" align="right">جست‌وجوی برنامه‌نویسی‌شده</h2>
 
 ```js
-const response = await fetch('https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json');
+const response = await fetch('https://raw.githubusercontent.com/hidevs/tabloo/main/data/symbols.json');
 const { data } = await response.json();
 
 const usableCurrencies = data.filter(
