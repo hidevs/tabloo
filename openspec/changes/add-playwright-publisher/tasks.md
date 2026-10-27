@@ -1,6 +1,6 @@
 ## 1. Reachability probe
 
-- [ ] 1.1 Add a throwaway `workflow_dispatch` job that opens `https://www.tgju.org/profile/price_dollar_rl` with Playwright on `ubuntu-latest` and prints «نرخ فعلی»; verify the Actions log shows a current rial price (if blocked: stop and switch to self-hosted runner plan)
+- [x] 1.1 Add a throwaway `workflow_dispatch` job that opens `https://www.tgju.org/profile/price_dollar_rl` with Playwright on `ubuntu-latest` and prints «نرخ فعلی»; verify the Actions log shows a current rial price (if blocked: stop and switch to self-hosted runner plan)
 
 ## 2. Project setup
 
@@ -35,4 +35,4 @@
 
 - [ ] 7.1 Add `.github/workflows/publish.yml` per design (cron */30, dispatch, concurrency, contents: write, commit-if-changed, rebase-and-push); verify a manual dispatch creates one data commit and a second immediate dispatch with no change creates none
 - [x] 7.2 Document local/self-hosted run (`cd scripts && npm ci && PW_CHANNEL=chrome node publish.mjs`) in a short section of `README.md`; verify the command works from a clean clone
-- [ ] 7.3 Remove the probe workflow from 1.1; verify only `publish.yml` remains
+- [x] 7.3 Remove the probe workflow from 1.1; verify only `publish.yml` remains
