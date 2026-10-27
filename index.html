@@ -17,7 +17,9 @@
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <meta name="theme-color" content="#08110f" />
     <link rel="canonical" href="https://hidevs.github.io/tabloo/" />
-    <link rel="icon" href="assets/favicon.png" type="image/svg+xml" />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="assets/favicon.png" type="image/png" sizes="512x512" />
+    <link rel="apple-touch-icon" href="assets/favicon.png" />
     <link rel="manifest" href="site.webmanifest" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="fa_IR" />
@@ -68,7 +70,7 @@
 
     <header class="topbar shell">
       <a class="brand" href="#top" aria-label="Tabloo">
-        <img src="assets/logo.webp" alt="تابلو" width="150">
+        <img class="brand-mark" src="assets/favicon.svg" alt="" width="43" height="43"><span><b>تابلو</b><small>TABLOO</small></span>
       </a>
       <nav aria-label="منوی اصلی">
         <a href="#prices"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-activity"></use></svg>قیمت‌ها</a>
@@ -103,8 +105,7 @@
             <b>fetch-market.js</b>
           </div>
           <pre><code><span class="code-purple">const</span> res = <span class="code-purple">await</span> fetch(
-  <span class="code-green">'https://raw.githubusercontent.com/hidevs/
-   tabloo/main/data/popular.json'</span>
+  <span class="code-green">'https://raw.githubusercontent.com/hidevs/tabloo/main/data/popular.json'</span>
 );
 
 <span class="code-purple">const</span> { data } = <span class="code-purple">await</span> res.json();
@@ -249,7 +250,7 @@ console.log(usd.price); <span class="code-comment">// تومان</span></code></
     <footer>
       <div class="shell footer-grid">
         <div class="brand">
-           <img src="assets/logo.webp" alt="تابلو" width="150">
+           <img class="brand-mark" src="assets/favicon.svg" alt="" width="43" height="43"><span><b>تابلو</b><small>TABLOO</small></span>
         </div>
         <p>داده‌ها صرفاً جهت اطلاع‌رسانی‌اند و توصیهٔ خرید یا فروش نیستند.</p>
         <div><a href="https://github.com/hidevs/tabloo"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-code"></use></svg>GitHub</a><a href="#symbols"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-tags"></use></svg>Symbols</a></div>

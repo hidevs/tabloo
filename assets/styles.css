@@ -55,6 +55,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .topbar { height: 92px; display: flex; align-items: center; justify-content: space-between; }
 .brand { display: flex; align-items: center; gap: 12px; direction: ltr; }
 .brand-mark {
+  padding: 0;
   width: 43px;
   height: 43px;
   display: grid;
@@ -66,7 +67,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   box-shadow: 0 0 30px rgba(185, 255, 102, 0.18);
 }
 .brand > span:last-child { display: flex; flex-direction: column; line-height: 1.1; }
-.brand b { font: 600 16px 'Space Grotesk', sans-serif; }
+.brand b { font: 800 20px 'Vazirmatn', sans-serif; }
 .brand small { margin-top: 5px; color: var(--muted); font: 500 10px 'Space Grotesk', sans-serif; letter-spacing: 0.07em; }
 .topbar nav { display: flex; align-items: center; gap: 28px; font-size: 14px; color: #c6d5cf; }
 .topbar nav a { display: inline-flex; align-items: center; gap: 7px; }
