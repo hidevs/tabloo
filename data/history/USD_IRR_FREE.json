@@ -51928,6 +51928,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
+    },
+    {
+      "t": "2026-10-27T20:30:00.000Z",
+      "t_tehran": "2026-10-28T00:00:00+03:30",
+      "open": 269500,
+      "high": 269500,
+      "low": 269500,
+      "close": 269500,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/06"
     }
   ],
   "meta": {
@@ -51935,9 +51948,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3987,
+    "count": 3988,
     "next_cursor": null,
-    "published_at": "2026-10-27T19:35:51.478Z",
+    "published_at": "2026-10-27T23:32:30.688Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USD_IRR_FREE.json",
     "currency": "IRT"
