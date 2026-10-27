@@ -46066,11 +46066,11 @@
       "t": "2026-10-26T20:30:00.000Z",
       "t_tehran": "2026-10-27T00:00:00+03:30",
       "open": 26230700,
-      "high": 26248900,
+      "high": 26281700,
       "low": 26230700,
-      "close": 26248900,
+      "close": 26281700,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
@@ -46083,7 +46083,7 @@
     "unit": "toman",
     "count": 3539,
     "next_cursor": null,
-    "published_at": "2026-10-27T14:42:32.552Z",
+    "published_at": "2026-10-27T15:26:57.006Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_IRR.json",
     "currency": "IRT"

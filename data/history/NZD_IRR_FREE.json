@@ -43501,10 +43501,10 @@
       "t_tehran": "2026-10-27T00:00:00+03:30",
       "open": 154250,
       "high": 154270,
-      "low": 154250,
-      "close": 154270,
+      "low": 153920,
+      "close": 153920,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
@@ -43517,7 +43517,7 @@
     "unit": "toman",
     "count": 3341,
     "next_cursor": null,
-    "published_at": "2026-10-27T14:42:32.552Z",
+    "published_at": "2026-10-27T15:26:57.006Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/NZD_IRR_FREE.json",
     "currency": "IRT"
