@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "t": "2026-07-24T20:30:00.000Z",
+      "t_tehran": "2026-07-25T00:00:00+03:30",
+      "open": 221.81,
+      "high": 221.81,
+      "low": 221.81,
+      "close": 221.81,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/05/03"
+    },
+    {
+      "t": "2026-07-29T20:30:00.000Z",
+      "t_tehran": "2026-07-30T00:00:00+03:30",
+      "open": 212.14,
+      "high": 212.14,
+      "low": 212.14,
+      "close": 212.14,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/05/08"
+    },
+    {
+      "t": "2026-08-09T20:30:00.000Z",
+      "t_tehran": "2026-08-10T00:00:00+03:30",
+      "open": 210.65,
+      "high": 212.14,
+      "low": 210.65,
+      "close": 210.65,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/05/19"
+    },
+    {
+      "t": "2026-08-16T20:30:00.000Z",
+      "t_tehran": "2026-08-17T00:00:00+03:30",
+      "open": 207.88,
+      "high": 207.88,
+      "low": 207.88,
+      "close": 207.88,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/05/26"
+    },
+    {
+      "t": "2026-08-21T20:30:00.000Z",
+      "t_tehran": "2026-08-22T00:00:00+03:30",
+      "open": 207.29,
+      "high": 207.29,
+      "low": 207.29,
+      "close": 207.29,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/05/31"
+    },
+    {
+      "t": "2026-08-29T20:30:00.000Z",
+      "t_tehran": "2026-08-30T00:00:00+03:30",
+      "open": 203.79,
+      "high": 203.79,
+      "low": 203.79,
+      "close": 203.79,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/06/08"
+    },
+    {
+      "t": "2026-09-03T20:30:00.000Z",
+      "t_tehran": "2026-09-04T00:00:00+03:30",
+      "open": 205.74,
+      "high": 205.74,
+      "low": 205.74,
+      "close": 205.74,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/06/13"
+    },
+    {
+      "t": "2026-09-10T20:30:00.000Z",
+      "t_tehran": "2026-09-11T00:00:00+03:30",
+      "open": 203.61,
+      "high": 203.61,
+      "low": 203.61,
+      "close": 203.61,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/06/20"
+    },
+    {
+      "t": "2026-09-17T20:30:00.000Z",
+      "t_tehran": "2026-09-18T00:00:00+03:30",
+      "open": 202.51,
+      "high": 202.51,
+      "low": 202.51,
+      "close": 202.51,
+      "volume": null,
+      "ticks": null,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/06/27"
+    },
+    {
+      "t": "2026-09-24T20:30:00.000Z",
+      "t_tehran": "2026-09-25T00:00:00+03:30",
+      "open": 200.61,
+      "high": 200.61,
+      "low": 200.61,
+      "close": 200.61,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [
+        "gap_before"
+      ],
+      "date_jalali": "1405/07/03"
+    },
+    {
+      "t": "2026-10-11T20:30:00.000Z",
+      "t_tehran": "2026-10-12T00:00:00+03:30",
+      "open": 202.02,
+      "high": 202.02,
+      "low": 202.02,
+      "close": 202.02,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/07/20"
+    }
+  ],
+  "meta": {
+    "symbol": "COMMODITY_TEA",
+    "interval": "1d",
+    "source": "TGJU",
+    "unit": "toman",
+    "count": 11,
+    "next_cursor": null,
+    "published_at": "2026-10-27T05:30:01.429Z",
+    "update_frequency_minutes": 1440,
+    "public_file": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/COMMODITY_TEA.json",
+    "currency": "USD"
+  }
+}

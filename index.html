@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>API رایگان قیمت دلار، طلا و سکه | Iran Market Data</title>
+    <meta
+      name="description"
+      content="API و فایل JSON رایگان قیمت لحظه‌ای دلار، طلا، سکه، تتر و تاریخچه بازار ایران؛ بدون ثبت‌نام و مناسب JavaScript، Python و اپلیکیشن‌ها."
+    />
+    <meta
+      name="keywords"
+      content="API رایگان قیمت دلار, API قیمت طلا, قیمت لحظه ای سکه, JSON قیمت ارز, تاریخچه قیمت دلار, Iran market API, free currency API Iran, TGJU API"
+    />
+    <meta name="author" content="Iran Market" />
+    <meta name="google-site-verification" content="ldW4rFqDgbdR46jFqGJREjSHYkQdgPwjdxbTS6_ZxFs" />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="theme-color" content="#08110f" />
+    <link rel="canonical" href="https://iran-market.github.io/" />
+    <link rel="icon" href="assets/favicon.png" type="image/svg+xml" />
+    <link rel="manifest" href="site.webmanifest" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="fa_IR" />
+    <meta property="og:title" content="دادهٔ رایگان بازار ایران؛ دلار، طلا، سکه و تاریخچه" />
+    <meta
+      property="og:description"
+      content="فایل‌های JSON رایگان و آمادهٔ استفاده برای توسعه‌دهندگان، با به‌روزرسانی خودکار هر ۳۰ دقیقه."
+    />
+    <meta property="og:url" content="https://iran-market.github.io/" />
+    <meta property="og:site_name" content="Iran Market Data" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "Iran Market Data",
+        "alternateName": "API رایگان قیمت دلار و طلا",
+        "description": "قیمت لحظه‌ای و تاریخچه دلار، طلا، سکه و ارزهای دیجیتال بازار ایران در قالب JSON",
+        "url": "https://iran-market.github.io/",
+        "license": "https://opensource.org/license/mit",
+        "creator": { "@type": "Organization", "name": "Iran Market" },
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest-toman.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/history/USD_IRR_FREE.json"
+          }
+        ],
+        "temporalCoverage": "2011/..",
+        "inLanguage": ["fa", "en"]
+      }
+    </script>
+  </head>
+  <body>
+    <div class="ambient ambient-one" aria-hidden="true"></div>
+    <div class="ambient ambient-two" aria-hidden="true"></div>
+
+    <header class="topbar shell">
+      <a class="brand" href="#top" aria-label="Iran Market Data">
+        <img src="assets/logo.webp" alt="ایران مارکت" width="150">
+      </a>
+      <nav aria-label="منوی اصلی">
+        <a href="#prices"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-activity"></use></svg>قیمت‌ها</a>
+        <a href="#symbols"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-tags"></use></svg>راهنمای نمادها</a>
+        <a href="#history"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-history"></use></svg>تاریخچه</a>
+        <a href="#docs"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-book-open"></use></svg>راهنما</a>
+        <a class="github-link" href="https://github.com/iran-market/iran-market.github.io"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-code"></use></svg>GitHub</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero shell">
+        <div class="hero-copy">
+          <div class="eyebrow"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-braces"></use></svg> دادهٔ باز برای توسعه‌دهندگان</div>
+          <h1>قیمت بازار ایران،<br /><em>آمادهٔ استفاده.</em></h1>
+          <p>
+            دلار، طلا، سکه و رمزارزها را با یک درخواست سادهٔ JSON دریافت کنید؛ رایگان، بدون
+            ثبت‌نام و با تاریخچهٔ روزانه.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#docs"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-rocket"></use></svg>شروع سریع</a>
+            <a class="button ghost" href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest-toman.json"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-file-json"></use></svg>مشاهده JSON</a>
+          </div>
+          <div class="freshness" id="freshness" role="status">
+            <span class="pulse"></span>
+            <span>در حال دریافت آخرین داده…</span>
+          </div>
+        </div>
+        <div class="terminal-card" aria-label="نمونه استفاده از API رایگان">
+          <div class="terminal-head">
+            <span></span><span></span><span></span>
+            <b>fetch-market.js</b>
+          </div>
+          <pre><code><span class="code-purple">const</span> res = <span class="code-purple">await</span> fetch(
+  <span class="code-green">'https://raw.githubusercontent.com/iran-market/
+   iran-market.github.io/main/data/popular.json'</span>
+);
+
+<span class="code-purple">const</span> { data } = <span class="code-purple">await</span> res.json();
+<span class="code-purple">const</span> usd = data.find(
+  item => item.symbol === <span class="code-green">'USD_IRR_FREE'</span>
+);
+
+console.log(usd.price); <span class="code-comment">// تومان</span></code></pre>
+          <button class="copy-code" data-copy="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-copy"></use></svg>کپی لینک فایل</button>
+        </div>
+      </section>
+
+      <section class="stats-strip" aria-label="ویژگی‌های سرویس">
+        <div class="shell stats-grid">
+          <div><span class="stat-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-database"></use></svg></span><span class="stat-copy"><strong id="instrument-count">+۹۰۰</strong><small>نماد بازار</small></span></div>
+          <div><span class="stat-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-refresh"></use></svg></span><span class="stat-copy"><strong>۳۰ دقیقه</strong><small>فاصلهٔ بروزرسانی</small></span></div>
+          <div><span class="stat-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-braces"></use></svg></span><span class="stat-copy"><strong>JSON</strong><small>بدون کلید API</small></span></div>
+          <div><span class="stat-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-badge-check"></use></svg></span><span class="stat-copy"><strong>رایگان</strong><small>مناسب پروژه‌های عمومی</small></span></div>
+        </div>
+      </section>
+
+      <section class="section shell" id="prices">
+        <div class="section-heading">
+          <div><span class="kicker">MARKET PULSE</span><h2><span class="heading-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-activity"></use></svg></span>نبض بازار در یک نگاه</h2></div>
+          <label class="search-box">
+            <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg>
+            <input id="market-search" type="search" placeholder="جست‌وجوی دلار، طلا، تتر…" autocomplete="off" />
+          </label>
+        </div>
+        <div class="tabs" role="tablist" aria-label="دسته بازار">
+          <button class="tab active" data-category="popular" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-star"></use></svg>منتخب</button>
+          <button class="tab" data-category="all" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-layout-grid"></use></svg>همه</button>
+          <button class="tab" data-category="currency" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-badge-dollar"></use></svg>ارز</button>
+          <button class="tab" data-category="gold" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-gem"></use></svg>طلا، سکه و فلزات</button>
+          <button class="tab" data-category="crypto" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-bitcoin"></use></svg>رمزارز</button>
+          <button class="tab" data-category="commodity" role="tab"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-boxes"></use></svg>انرژی و کالا</button>
+        </div>
+        <div class="market-grid" id="market-grid" aria-live="polite">
+          <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+        </div>
+        <div class="section-foot">
+          <span id="result-count">در حال بارگذاری…</span>
+          <a href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/latest-toman.json"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-download"></use></svg>دریافت همهٔ قیمت‌ها</a>
+        </div>
+      </section>
+
+      <section class="section symbols-section" id="symbols">
+        <div class="shell">
+          <div class="section-heading symbols-heading">
+            <div>
+              <span class="kicker">SYMBOL DIRECTORY</span>
+              <h2><span class="heading-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-tags"></use></svg></span>راهنمای کامل شناسه‌ها</h2>
+              <p>نام‌ها و دسته‌بندی‌ها مستقیماً از دادهٔ مرجع ساخته می‌شوند؛ موارد حل‌نشده بدون نام نمایش داده می‌شوند، نه با حدس.</p>
+            </div>
+            <a class="button ghost" href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/symbols.json"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-download"></use></svg>دریافت symbols.json</a>
+          </div>
+          <div class="symbol-tools">
+            <label class="search-box symbol-search">
+              <svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg>
+              <input id="symbol-search" type="search" placeholder="نام یا شناسه؛ مثال USD_IRR_FREE" autocomplete="off" />
+            </label>
+            <select id="symbol-category" aria-label="فیلتر دسته نماد">
+              <option value="all">همهٔ دسته‌ها</option>
+            </select>
+            <label class="availability-filter"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-filter"></use></svg><input id="symbol-live-only" type="checkbox" checked /> فقط دارای قیمت فعلی</label>
+          </div>
+          <div class="symbol-summary" id="symbol-summary">در حال دریافت فهرست نمادها…</div>
+          <div class="symbols-table-wrap">
+            <table class="symbols-table">
+              <thead><tr><th>شناسه</th><th>نام معتبر</th><th>دسته</th><th>واحد قیمت</th><th>دسترسی</th></tr></thead>
+              <tbody id="symbols-body"><tr><td colspan="5">در حال بارگذاری…</td></tr></tbody>
+            </table>
+          </div>
+          <div class="symbols-actions">
+            <button class="button ghost" id="symbols-more" type="button"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-chevron-down"></use></svg>نمایش موارد بیشتر</button>
+            <a href="https://github.com/iran-market/iran-market.github.io/blob/main/SYMBOLS.md"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-code"></use></svg>توضیح قواعد شناسه‌ها در GitHub<svg class="icon external-icon" aria-hidden="true"><use href="assets/icons.svg#icon-external-link"></use></svg></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section history-section" id="history">
+        <div class="shell">
+          <div class="section-heading">
+            <div><span class="kicker">HISTORICAL DATA</span><h2><span class="heading-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-chart"></use></svg></span>تاریخچه‌ای که آمادهٔ تحلیل است</h2><p>ده‌ها فایل روزانه از ارز، طلا، سکه، رمزارز، انرژی، قهوه، غلات و فلزات.</p></div>
+            <select id="history-symbol" aria-label="انتخاب نمودار تاریخچه">
+              <option value="USD_IRR_FREE">دلار آزاد</option>
+              <option value="GOLD_18K_IRR">طلای ۱۸ عیار</option>
+              <option value="COIN_EMAMI_IRR">سکه امامی</option>
+              <option value="USDT_IRR">تتر</option>
+            </select>
+          </div>
+          <div class="chart-card">
+            <div class="chart-meta">
+              <div><span id="chart-name">دلار آزاد</span><strong id="chart-price">—</strong></div>
+              <div class="chart-range"><button data-range="90">۳ ماه</button><button data-range="365" class="active">۱ سال</button><button data-range="all">همه</button></div>
+            </div>
+            <div class="chart-wrap"><canvas id="history-chart" role="img" aria-label="نمودار تاریخچه قیمت"></canvas><div id="chart-tooltip"></div></div>
+            <div class="chart-axis"><span id="chart-start">—</span><span id="chart-end">—</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section shell" id="docs">
+        <div class="section-heading docs-heading">
+          <div><span class="kicker">ZERO AUTH · CORS READY</span><h2><span class="heading-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-terminal"></use></svg></span>از صفر تا داده در چند خط</h2></div>
+          <p>فایل‌ها UTF-8، عمومی و قابل استفاده در مرورگر، Node.js، Python، PHP و موبایل هستند. <a href="https://raw.githubusercontent.com/iran-market/iran-market.github.io/main/data/popular.json">Raw GitHub</a> مسیر پیشنهادی است (کش کوتاه‌تر، حدود ۵ دقیقه)؛ <a href="https://cdn.jsdelivr.net/gh/iran-market/iran-market.github.io@main/data/popular.json">jsDelivr</a> با کش حدود ۱۲ ساعت برای داده‌ای مناسب است که تازگی کمتر اهمیت دارد.</p>
+        </div>
+        <div class="docs-layout">
+          <aside class="endpoint-list" aria-label="فایل‌های قابل دریافت">
+            <button class="endpoint active" data-endpoint="popular"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-star"></use></svg></span><span class="endpoint-copy"><b>قیمت‌های منتخب</b><code>/data/popular.json</code></span></button>
+            <button class="endpoint" data-endpoint="latest"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-database"></use></svg></span><span class="endpoint-copy"><b>همه قیمت‌ها</b><code>/data/latest-toman.json</code></span></button>
+            <button class="endpoint" data-endpoint="symbols"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-tags"></use></svg></span><span class="endpoint-copy"><b>راهنمای نمادها</b><code>/data/symbols.json</code></span></button>
+            <button class="endpoint" data-endpoint="histories"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-file-chart"></use></svg></span><span class="endpoint-copy"><b>فهرست تاریخچه‌ها</b><code>/data/history/index.json</code></span></button>
+            <button class="endpoint" data-endpoint="usd"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-badge-dollar"></use></svg></span><span class="endpoint-copy"><b>تاریخچه دلار</b><code>/data/history/USD_IRR_FREE.json</code></span></button>
+            <button class="endpoint" data-endpoint="gold"><span class="endpoint-icon"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-gem"></use></svg></span><span class="endpoint-copy"><b>تاریخچه طلا</b><code>/data/history/GOLD_18K_IRR.json</code></span></button>
+          </aside>
+          <div class="code-panel">
+            <div class="language-tabs"><button class="active" data-lang="js">JavaScript</button><button data-lang="python">Python</button><button data-lang="curl">cURL</button></div>
+            <pre><code id="usage-code"></code></pre>
+            <button class="copy-code" id="copy-usage"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-copy"></use></svg>کپی کد</button>
+          </div>
+        </div>
+        <div class="feature-grid">
+          <article><span class="feature-mark"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-fingerprint"></use></svg><small>01</small></span><h3>شناسه‌های پایدار</h3><p>فهرست ماشین‌خوان، نام‌های منبع‌محور و فیلدهای مشخص؛ مناسب cache، نمودار و تحلیل.</p></article>
+          <article><span class="feature-mark"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-clock"></use></svg><small>02</small></span><h3>زمان فارسی و UTC</h3><p>timestamp استاندارد در کنار تاریخ و ساعت تهران و تاریخ جلالی.</p></article>
+          <article><span class="feature-mark"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-candlestick"></use></svg><small>03</small></span><h3>تاریخچهٔ OHLC</h3><p>کندل روزانه با open، high، low و close؛ مرتب‌شده برای پردازش مستقیم.</p></article>
+        </div>
+      </section>
+
+      <section class="seo-copy shell">
+        <h2>API رایگان قیمت دلار و بازار ایران برای برنامه‌نویسان</h2>
+        <p>
+          Iran Market Data راهی ساده برای دریافت قیمت لحظه‌ای دلار آزاد، طلای ۱۸ عیار، سکه
+          امامی، تتر و صدها نماد دیگر است. به‌جای scraping و نگه‌داری crawler، فایل JSON آماده را
+          مستقیماً در وب‌سایت، ربات، داشبورد یا پروژهٔ دانشگاهی خود مصرف کنید. تاریخچهٔ روزانهٔ
+          ارزها، طلا و سکه، رمزارزها، نفت و گاز، قهوه، کاکائو، غلات و فلزات نیز برای رسم نمودار،
+          تحلیل روند و بک‌تست در دسترس است.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-grid">
+        <div class="brand">
+           <img src="assets/logo.webp" alt="ایران مارکت" width="150">
+        </div>
+        <p>داده‌ها صرفاً جهت اطلاع‌رسانی‌اند و توصیهٔ خرید یا فروش نیستند.</p>
+        <div><a href="https://github.com/iran-market/iran-market.github.io"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-code"></use></svg>GitHub</a><a href="#symbols"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-tags"></use></svg>Symbols</a></div>
+      </div>
+    </footer>
+    <div class="toast" id="toast" role="status"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#icon-badge-check"></use></svg><span>کپی شد</span></div>
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

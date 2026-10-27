@@ -1,0 +1,12 @@
+{
+  "name": "Iran Market Data",
+  "short_name": "Iran Market",
+  "description": "داده رایگان قیمت دلار، طلا، سکه و بازار ایران",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08110f",
+  "theme_color": "#08110f",
+  "icons": [{ "src": "/assets/favicon.png", "sizes": "any", "type": "image/svg+xml" }]
+}
