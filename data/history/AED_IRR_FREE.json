@@ -47976,9 +47976,9 @@
       "open": 73990,
       "high": 73990,
       "low": 73877,
-      "close": 73877,
+      "close": 73897,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
@@ -47991,7 +47991,7 @@
     "unit": "toman",
     "count": 3685,
     "next_cursor": null,
-    "published_at": "2026-10-27T15:26:57.006Z",
+    "published_at": "2026-10-27T15:29:57.103Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AED_IRR_FREE.json",
     "currency": "IRT"

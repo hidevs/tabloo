@@ -42363,9 +42363,9 @@
       "open": 72067,
       "high": 72067,
       "low": 71952,
-      "close": 71952,
+      "close": 71976,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
@@ -42378,7 +42378,7 @@
     "unit": "toman",
     "count": 3254,
     "next_cursor": null,
-    "published_at": "2026-10-27T15:26:57.006Z",
+    "published_at": "2026-10-27T15:29:57.103Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SAR_IRR_FREE.json",
     "currency": "IRT"
