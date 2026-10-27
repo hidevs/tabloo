@@ -41480,7 +41480,7 @@
       "low": 5440,
       "close": 5440,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/05"
@@ -41493,7 +41493,7 @@
     "unit": "toman",
     "count": 3185,
     "next_cursor": null,
-    "published_at": "2026-10-27T14:39:14.902Z",
+    "published_at": "2026-10-27T14:42:32.552Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/TRY_IRR_FREE.json",
     "currency": "IRT"
