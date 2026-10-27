@@ -1,5 +1,26 @@
 {
   "mcpServers": {
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CONTEXT7_API_KEY}"
+      }
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "serena": {
+      "type": "stdio",
+      "command": "serena",
+      "args": [
+        "start-mcp-server",
+        "--context=jb-copilot-plugin"
+      ]
+    },
     "graft": {
       "command": "graft",
       "args": [
