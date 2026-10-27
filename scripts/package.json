@@ -1,0 +1,12 @@
+{
+  "name": "tabloo-publisher",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "publish": "node publish.mjs",
+    "discover": "node discover.mjs",
+    "test": "node test/self-check.mjs"
+  },
+  "dependencies": { "playwright": "^1.49.0" }
+}

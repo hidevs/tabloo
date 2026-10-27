@@ -308,3 +308,13 @@ Tabloo provides public, no-auth JSON files for current and historical Iranian ma
 <p dir="rtl" align="right">
 کد رابط، مستندات و مثال‌های این مخزن تحت <a href="LICENSE">مجوز MIT</a> منتشر می‌شوند. دادهٔ بازار متعلق به تولیدکنندگان و ارائه‌دهندگان اصلی آن است.
 </p>
+
+## Run the publisher yourself
+
+Prices are read from tgju.org with Playwright and written into `data/`.
+
+```bash
+cd scripts && npm ci && PW_CHANNEL=chrome node publish.mjs
+```
+
+`PW_CHANNEL=chrome` uses your installed Chrome. Without it run `npx playwright install chromium` first. `npm test` checks the writer against a temp copy of `data/`.
