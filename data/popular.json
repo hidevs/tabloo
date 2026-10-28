@@ -23,7 +23,7 @@
       "timestamp": "2026-10-28T16:29:40.000Z",
       "timestamp_tehran": "2026-10-28T19:59:40+03:30",
       "timestamp_jalali": "1405/08/06 19:59:40",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -43,15 +43,15 @@
       "open": null,
       "high": 301280,
       "low": 299040,
-      "prev_close": 300670,
-      "change": -240,
-      "change_pct": -0.08,
+      "prev_close": 300190,
+      "change": 240,
+      "change_pct": 0.08,
       "volume": null,
       "market_status": null,
       "timestamp": "2026-10-28T16:29:57.000Z",
       "timestamp_tehran": "2026-10-28T19:59:57+03:30",
       "timestamp_jalali": "1405/08/06 19:59:57",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -79,7 +79,7 @@
       "timestamp": "2026-10-25T16:29:58.000Z",
       "timestamp_tehran": "2026-10-25T19:59:58+03:30",
       "timestamp_jalali": "1405/08/03 19:59:58",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": true,
       "quality": [
@@ -109,7 +109,7 @@
       "timestamp": "2026-10-28T16:29:56.000Z",
       "timestamp_tehran": "2026-10-28T19:59:56+03:30",
       "timestamp_jalali": "1405/08/06 19:59:56",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -137,7 +137,7 @@
       "timestamp": "2026-10-28T16:29:55.000Z",
       "timestamp_tehran": "2026-10-28T19:59:55+03:30",
       "timestamp_jalali": "1405/08/06 19:59:55",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -165,7 +165,7 @@
       "timestamp": "2026-10-24T20:30:00.000Z",
       "timestamp_tehran": "2026-10-25T00:00:00+03:30",
       "timestamp_jalali": "1405/08/03 00:00:00",
-      "checked_at": "2026-10-28T17:00:49.808Z",
+      "checked_at": "2026-10-28T21:37:51.324Z",
       "source": "tgju",
       "stale": true,
       "quality": [
@@ -182,7 +182,7 @@
     "sources": [
       "tgju"
     ],
-    "published_at": "2026-10-28T17:00:49.808Z",
+    "published_at": "2026-10-28T21:37:51.324Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/popular.json",
     "source": "TGJU"

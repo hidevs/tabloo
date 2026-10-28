@@ -42299,6 +42299,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/06"
+    },
+    {
+      "t": "2026-10-28T20:30:00.000Z",
+      "t_tehran": "2026-10-29T00:00:00+03:30",
+      "open": 192150,
+      "high": 192150,
+      "low": 192150,
+      "close": 192150,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/07"
     }
   ],
   "meta": {
@@ -42306,9 +42319,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3248,
+    "count": 3249,
     "next_cursor": null,
-    "published_at": "2026-10-28T17:00:49.808Z",
+    "published_at": "2026-10-28T21:37:51.324Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CAD_IRR_FREE.json",
     "currency": "IRT"
