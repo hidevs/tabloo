@@ -58793,9 +58793,9 @@
       "open": 113.873,
       "high": 115.392,
       "low": 113.873,
-      "close": 115.392,
+      "close": 114.73,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/06"
@@ -58808,7 +58808,7 @@
     "unit": "toman",
     "count": 4519,
     "next_cursor": null,
-    "published_at": "2026-10-28T04:15:38.724Z",
+    "published_at": "2026-10-28T10:44:43.235Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BRENT_USD.json",
     "currency": "USD"

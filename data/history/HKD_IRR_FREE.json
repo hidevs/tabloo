@@ -43331,10 +43331,10 @@
       "t_tehran": "2026-10-28T00:00:00+03:30",
       "open": 34430,
       "high": 34430,
-      "low": 34430,
-      "close": 34430,
+      "low": 34390,
+      "close": 34390,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/06"
@@ -43347,7 +43347,7 @@
     "unit": "toman",
     "count": 3329,
     "next_cursor": null,
-    "published_at": "2026-10-28T04:15:38.724Z",
+    "published_at": "2026-10-28T10:44:43.235Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/HKD_IRR_FREE.json",
     "currency": "IRT"

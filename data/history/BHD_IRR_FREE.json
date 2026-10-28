@@ -42321,10 +42321,10 @@
       "t_tehran": "2026-10-28T00:00:00+03:30",
       "open": 716860,
       "high": 716860,
-      "low": 716860,
-      "close": 716860,
+      "low": 716010,
+      "close": 716010,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/06"
@@ -42337,7 +42337,7 @@
     "unit": "toman",
     "count": 3251,
     "next_cursor": null,
-    "published_at": "2026-10-28T04:15:38.724Z",
+    "published_at": "2026-10-28T10:44:43.235Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BHD_IRR_FREE.json",
     "currency": "IRT"
