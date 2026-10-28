@@ -31235,7 +31235,7 @@
       "low": 266990000,
       "close": 266990000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/06"
@@ -31248,7 +31248,7 @@
     "unit": "toman",
     "count": 2398,
     "next_cursor": null,
-    "published_at": "2026-10-27T23:32:30.688Z",
+    "published_at": "2026-10-28T04:15:38.724Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
     "currency": "IRT"
