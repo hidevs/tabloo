@@ -26623,10 +26623,10 @@
       "t_tehran": "2026-10-29T00:00:00+03:30",
       "open": 11126000,
       "high": 11126000,
-      "low": 11126000,
-      "close": 11126000,
+      "low": 10238000,
+      "close": 10238000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
@@ -26639,7 +26639,7 @@
     "unit": "toman",
     "count": 2019,
     "next_cursor": null,
-    "published_at": "2026-10-29T01:35:28.695Z",
+    "published_at": "2026-10-29T08:05:49.942Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
     "currency": "IRT"

@@ -29752,7 +29752,7 @@
       "low": 38210000,
       "close": 38210000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
@@ -29765,7 +29765,7 @@
     "unit": "toman",
     "count": 2283,
     "next_cursor": null,
-    "published_at": "2026-10-29T01:35:28.695Z",
+    "published_at": "2026-10-29T08:05:49.942Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
     "currency": "IRT"

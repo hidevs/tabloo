@@ -26218,10 +26218,10 @@
       "t_tehran": "2026-10-29T00:00:00+03:30",
       "open": 1471000,
       "high": 1471000,
-      "low": 1471000,
-      "close": 1471000,
+      "low": 713000,
+      "close": 713000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
@@ -26234,7 +26234,7 @@
     "unit": "toman",
     "count": 1990,
     "next_cursor": null,
-    "published_at": "2026-10-29T01:35:28.695Z",
+    "published_at": "2026-10-29T08:05:49.942Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
     "currency": "IRT"
