@@ -54000,9 +54000,9 @@
       "open": 4060.03,
       "high": 4060.03,
       "low": 4021.72,
-      "close": 4021.72,
+      "close": 4025.71,
       "volume": null,
-      "ticks": 4,
+      "ticks": 5,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
@@ -54015,7 +54015,7 @@
     "unit": "toman",
     "count": 4151,
     "next_cursor": null,
-    "published_at": "2026-10-29T15:25:47.355Z",
+    "published_at": "2026-10-29T20:28:04.776Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
     "currency": "USD"

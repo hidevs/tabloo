@@ -53476,11 +53476,11 @@
       "t": "2026-10-28T20:30:00.000Z",
       "t_tehran": "2026-10-29T00:00:00+03:30",
       "open": 3.1607,
-      "high": 3.1607,
+      "high": 3.1812,
       "low": 3.1083,
-      "close": 3.1083,
+      "close": 3.1812,
       "volume": null,
-      "ticks": 4,
+      "ticks": 5,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
@@ -53493,7 +53493,7 @@
     "unit": "toman",
     "count": 4109,
     "next_cursor": null,
-    "published_at": "2026-10-29T15:25:47.355Z",
+    "published_at": "2026-10-29T20:28:04.776Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/ENERGY_GASOLINE_RBOB.json",
     "currency": "USD"

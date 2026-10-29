@@ -23,7 +23,7 @@
       "timestamp": "2026-10-29T13:29:57.000Z",
       "timestamp_tehran": "2026-10-29T16:59:57+03:30",
       "timestamp_jalali": "1405/08/07 16:59:57",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -51,7 +51,7 @@
       "timestamp": "2026-10-29T13:29:54.000Z",
       "timestamp_tehran": "2026-10-29T16:59:54+03:30",
       "timestamp_jalali": "1405/08/07 16:59:54",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -79,7 +79,7 @@
       "timestamp": "2026-10-25T16:29:58.000Z",
       "timestamp_tehran": "2026-10-25T19:59:58+03:30",
       "timestamp_jalali": "1405/08/03 19:59:58",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": true,
       "quality": [
@@ -109,7 +109,7 @@
       "timestamp": "2026-10-29T13:29:53.000Z",
       "timestamp_tehran": "2026-10-29T16:59:53+03:30",
       "timestamp_jalali": "1405/08/07 16:59:53",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -137,7 +137,7 @@
       "timestamp": "2026-10-29T13:29:56.000Z",
       "timestamp_tehran": "2026-10-29T16:59:56+03:30",
       "timestamp_jalali": "1405/08/07 16:59:56",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": false,
       "quality": []
@@ -165,7 +165,7 @@
       "timestamp": "2026-10-24T20:30:00.000Z",
       "timestamp_tehran": "2026-10-25T00:00:00+03:30",
       "timestamp_jalali": "1405/08/03 00:00:00",
-      "checked_at": "2026-10-29T15:25:47.355Z",
+      "checked_at": "2026-10-29T20:28:04.776Z",
       "source": "tgju",
       "stale": true,
       "quality": [
@@ -182,7 +182,7 @@
     "sources": [
       "tgju"
     ],
-    "published_at": "2026-10-29T15:25:47.355Z",
+    "published_at": "2026-10-29T20:28:04.776Z",
     "update_frequency_minutes": 30,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/popular.json",
     "source": "TGJU"
