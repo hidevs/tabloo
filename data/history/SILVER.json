@@ -54069,10 +54069,10 @@
       "t_tehran": "2026-10-30T00:00:00+03:30",
       "open": 51.89,
       "high": 51.89,
-      "low": 51.89,
-      "close": 51.89,
+      "low": 50.95,
+      "close": 50.95,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/08"
@@ -54085,7 +54085,7 @@
     "unit": "toman",
     "count": 4157,
     "next_cursor": null,
-    "published_at": "2026-10-30T00:09:57.675Z",
+    "published_at": "2026-10-30T06:14:04.408Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SILVER.json",
     "currency": "USD"
