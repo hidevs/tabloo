@@ -26225,6 +26225,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
+    },
+    {
+      "t": "2026-10-29T20:30:00.000Z",
+      "t_tehran": "2026-10-30T00:00:00+03:30",
+      "open": 147000,
+      "high": 147000,
+      "low": 147000,
+      "close": 147000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/08"
     }
   ],
   "meta": {
@@ -26232,9 +26245,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1990,
+    "count": 1991,
     "next_cursor": null,
-    "published_at": "2026-10-29T20:28:04.776Z",
+    "published_at": "2026-10-30T00:09:57.675Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
     "currency": "IRT"

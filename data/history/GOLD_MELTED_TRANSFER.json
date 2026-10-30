@@ -22082,6 +22082,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/07"
+    },
+    {
+      "t": "2026-10-29T20:30:00.000Z",
+      "t_tehran": "2026-10-30T00:00:00+03:30",
+      "open": 113603000,
+      "high": 113603000,
+      "low": 113603000,
+      "close": 113603000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/08"
     }
   ],
   "meta": {
@@ -22089,9 +22102,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 1695,
+    "count": 1696,
     "next_cursor": null,
-    "published_at": "2026-10-29T20:28:04.776Z",
+    "published_at": "2026-10-30T00:09:57.675Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MELTED_TRANSFER.json",
     "currency": "IRT"
