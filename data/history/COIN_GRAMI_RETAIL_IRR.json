@@ -29769,6 +29769,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/08"
+    },
+    {
+      "t": "2026-10-30T20:30:00.000Z",
+      "t_tehran": "2026-10-31T00:00:00+03:30",
+      "open": 38210000,
+      "high": 38210000,
+      "low": 38210000,
+      "close": 38210000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/09"
     }
   ],
   "meta": {
@@ -29776,9 +29789,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2284,
+    "count": 2285,
     "next_cursor": null,
-    "published_at": "2026-10-30T18:44:49.207Z",
+    "published_at": "2026-10-30T22:48:49.598Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
     "currency": "IRT"
