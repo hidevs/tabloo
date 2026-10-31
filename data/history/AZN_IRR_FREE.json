@@ -42315,7 +42315,7 @@
       "low": 160110,
       "close": 160110,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
@@ -42328,7 +42328,7 @@
     "unit": "toman",
     "count": 3250,
     "next_cursor": null,
-    "published_at": "2026-10-30T22:48:49.598Z",
+    "published_at": "2026-10-31T02:03:10.175Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AZN_IRR_FREE.json",
     "currency": "IRT"
