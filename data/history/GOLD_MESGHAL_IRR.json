@@ -46147,10 +46147,10 @@
       "t_tehran": "2026-10-31T00:00:00+03:30",
       "open": 113604000,
       "high": 113604000,
-      "low": 113604000,
-      "close": 113604000,
+      "low": 110104000,
+      "close": 110104000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
@@ -46163,7 +46163,7 @@
     "unit": "toman",
     "count": 3545,
     "next_cursor": null,
-    "published_at": "2026-10-31T02:03:10.175Z",
+    "published_at": "2026-10-31T08:41:27.552Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MESGHAL_IRR.json",
     "currency": "IRT"

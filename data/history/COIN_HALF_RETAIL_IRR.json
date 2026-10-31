@@ -30399,10 +30399,10 @@
       "t_tehran": "2026-10-31T00:00:00+03:30",
       "open": 140790000,
       "high": 140790000,
-      "low": 140790000,
-      "close": 140790000,
+      "low": 139400000,
+      "close": 139400000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
@@ -30415,7 +30415,7 @@
     "unit": "toman",
     "count": 2331,
     "next_cursor": null,
-    "published_at": "2026-10-31T02:03:10.175Z",
+    "published_at": "2026-10-31T08:41:27.552Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_RETAIL_IRR.json",
     "currency": "IRT"

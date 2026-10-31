@@ -54078,10 +54078,10 @@
       "t_tehran": "2026-10-31T00:00:00+03:30",
       "open": 266785000,
       "high": 266785000,
-      "low": 266785000,
-      "close": 266785000,
+      "low": 261940000,
+      "close": 261940000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
@@ -54094,7 +54094,7 @@
     "unit": "toman",
     "count": 4152,
     "next_cursor": null,
-    "published_at": "2026-10-31T02:03:10.175Z",
+    "published_at": "2026-10-31T08:41:27.552Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_IRR.json",
     "currency": "IRT"

@@ -42287,11 +42287,11 @@
       "t": "2026-10-30T20:30:00.000Z",
       "t_tehran": "2026-10-31T00:00:00+03:30",
       "open": 190790,
-      "high": 190790,
+      "high": 192230,
       "low": 190790,
-      "close": 190790,
+      "close": 192230,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/09"
@@ -42304,7 +42304,7 @@
     "unit": "toman",
     "count": 3248,
     "next_cursor": null,
-    "published_at": "2026-10-31T02:03:10.175Z",
+    "published_at": "2026-10-31T08:41:27.552Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AUD_IRR_FREE.json",
     "currency": "IRT"
