@@ -44121,7 +44121,7 @@
       "low": 37000000,
       "close": 37400000,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/10"
@@ -44134,7 +44134,7 @@
     "unit": "toman",
     "count": 3388,
     "next_cursor": null,
-    "published_at": "2026-11-01T08:47:22.279Z",
+    "published_at": "2026-11-01T15:48:26.664Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_IRR.json",
     "currency": "IRT"
