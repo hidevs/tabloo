@@ -46133,9 +46133,9 @@
       "open": 25233100,
       "high": 25613400,
       "low": 25233100,
-      "close": 25539700,
+      "close": 25579200,
       "volume": null,
-      "ticks": 4,
+      "ticks": 5,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/10"
@@ -46148,7 +46148,7 @@
     "unit": "toman",
     "count": 3544,
     "next_cursor": null,
-    "published_at": "2026-11-01T15:48:26.664Z",
+    "published_at": "2026-11-01T20:15:12.700Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_IRR.json",
     "currency": "IRT"
