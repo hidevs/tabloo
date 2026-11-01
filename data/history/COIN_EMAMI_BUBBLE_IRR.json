@@ -26665,7 +26665,7 @@
       "low": 11709000,
       "close": 11709000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/10"
@@ -26678,7 +26678,7 @@
     "unit": "toman",
     "count": 2022,
     "next_cursor": null,
-    "published_at": "2026-10-31T22:43:51.993Z",
+    "published_at": "2026-11-01T01:54:29.036Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
     "currency": "IRT"
