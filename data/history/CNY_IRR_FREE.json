@@ -41850,11 +41850,11 @@
       "t": "2026-10-31T20:30:00.000Z",
       "t_tehran": "2026-11-01T00:00:00+03:30",
       "open": 40730,
-      "high": 40730,
+      "high": 40910,
       "low": 40730,
-      "close": 40730,
+      "close": 40910,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/10"
@@ -41867,7 +41867,7 @@
     "unit": "toman",
     "count": 3215,
     "next_cursor": null,
-    "published_at": "2026-11-01T01:54:29.036Z",
+    "published_at": "2026-11-01T08:47:22.279Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"

@@ -58053,7 +58053,7 @@
       "low": 988,
       "close": 988,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/10"
@@ -58066,7 +58066,7 @@
     "unit": "toman",
     "count": 4392,
     "next_cursor": null,
-    "published_at": "2026-11-01T01:54:29.036Z",
+    "published_at": "2026-11-01T08:47:22.279Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PALLADIUM.json",
     "currency": "USD"
