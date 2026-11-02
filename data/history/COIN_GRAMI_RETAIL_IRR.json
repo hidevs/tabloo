@@ -29801,10 +29801,10 @@
       "t_tehran": "2026-11-02T00:00:00+03:30",
       "open": 37600000,
       "high": 37600000,
-      "low": 37600000,
-      "close": 37600000,
+      "low": 37400000,
+      "close": 37400000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/11"
@@ -29817,7 +29817,7 @@
     "unit": "toman",
     "count": 2287,
     "next_cursor": null,
-    "published_at": "2026-11-02T04:41:09.956Z",
+    "published_at": "2026-11-02T13:08:47.500Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
     "currency": "IRT"
