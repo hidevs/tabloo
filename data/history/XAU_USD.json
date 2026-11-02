@@ -54050,11 +54050,11 @@
       "t": "2026-11-01T20:30:00.000Z",
       "t_tehran": "2026-11-02T00:00:00+03:30",
       "open": 3899.98,
-      "high": 3899.98,
+      "high": 3902.23,
       "low": 3899.98,
-      "close": 3899.98,
+      "close": 3902.23,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/11"
@@ -54067,7 +54067,7 @@
     "unit": "toman",
     "count": 4155,
     "next_cursor": null,
-    "published_at": "2026-11-01T23:47:32.139Z",
+    "published_at": "2026-11-02T04:41:09.956Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
     "currency": "USD"
