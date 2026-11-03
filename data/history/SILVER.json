@@ -54122,9 +54122,9 @@
       "open": 50.66,
       "high": 50.66,
       "low": 48.97,
-      "close": 48.97,
+      "close": 49.7,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
@@ -54137,7 +54137,7 @@
     "unit": "toman",
     "count": 4161,
     "next_cursor": null,
-    "published_at": "2026-11-03T11:39:52.785Z",
+    "published_at": "2026-11-03T19:08:25.688Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SILVER.json",
     "currency": "USD"
