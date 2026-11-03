@@ -26089,7 +26089,7 @@
       "low": 12310000,
       "close": 12310000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
@@ -26102,7 +26102,7 @@
     "unit": "toman",
     "count": 1994,
     "next_cursor": null,
-    "published_at": "2026-11-02T22:25:51.585Z",
+    "published_at": "2026-11-03T03:37:43.017Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
     "currency": "IRT"

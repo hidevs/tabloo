@@ -58869,11 +58869,11 @@
       "t": "2026-11-02T20:30:00.000Z",
       "t_tehran": "2026-11-03T00:00:00+03:30",
       "open": 104.23,
-      "high": 104.23,
+      "high": 104.619,
       "low": 104.23,
-      "close": 104.23,
+      "close": 104.619,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
@@ -58886,7 +58886,7 @@
     "unit": "toman",
     "count": 4525,
     "next_cursor": null,
-    "published_at": "2026-11-02T22:25:51.585Z",
+    "published_at": "2026-11-03T03:37:43.017Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BRENT_USD.json",
     "currency": "USD"
