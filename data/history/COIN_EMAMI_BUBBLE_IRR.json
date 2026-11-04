@@ -26695,6 +26695,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/12"
+    },
+    {
+      "t": "2026-11-03T20:30:00.000Z",
+      "t_tehran": "2026-11-04T00:00:00+03:30",
+      "open": 7736000,
+      "high": 7736000,
+      "low": 7736000,
+      "close": 7736000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/13"
     }
   ],
   "meta": {
@@ -26702,9 +26715,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2024,
+    "count": 2025,
     "next_cursor": null,
-    "published_at": "2026-11-03T19:08:25.688Z",
+    "published_at": "2026-11-04T00:06:15.586Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
     "currency": "IRT"
