@@ -54137,6 +54137,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/13"
+    },
+    {
+      "t": "2026-11-04T20:30:00.000Z",
+      "t_tehran": "2026-11-05T00:00:00+03:30",
+      "open": 2.9502,
+      "high": 2.9502,
+      "low": 2.9502,
+      "close": 2.9502,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/14"
     }
   ],
   "meta": {
@@ -54144,9 +54157,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4164,
+    "count": 4165,
     "next_cursor": null,
-    "published_at": "2026-11-04T15:09:23.570Z",
+    "published_at": "2026-11-04T21:25:40.996Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"
