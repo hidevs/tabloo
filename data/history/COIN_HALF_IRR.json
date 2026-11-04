@@ -45227,7 +45227,7 @@
       "low": 138630000,
       "close": 138630000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/13"
@@ -45240,7 +45240,7 @@
     "unit": "toman",
     "count": 3470,
     "next_cursor": null,
-    "published_at": "2026-11-04T00:06:15.586Z",
+    "published_at": "2026-11-04T06:52:31.406Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_IRR.json",
     "currency": "IRT"

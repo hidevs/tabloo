@@ -42343,7 +42343,7 @@
       "low": 190670,
       "close": 190670,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/13"
@@ -42356,7 +42356,7 @@
     "unit": "toman",
     "count": 3252,
     "next_cursor": null,
-    "published_at": "2026-11-04T00:06:15.586Z",
+    "published_at": "2026-11-04T06:52:31.406Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AUD_IRR_FREE.json",
     "currency": "IRT"
