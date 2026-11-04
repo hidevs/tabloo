@@ -26130,10 +26130,10 @@
       "t_tehran": "2026-11-04T00:00:00+03:30",
       "open": 11994000,
       "high": 11994000,
-      "low": 11994000,
-      "close": 11994000,
+      "low": 11933000,
+      "close": 11933000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/13"
@@ -26146,7 +26146,7 @@
     "unit": "toman",
     "count": 1994,
     "next_cursor": null,
-    "published_at": "2026-11-04T06:52:31.406Z",
+    "published_at": "2026-11-04T15:09:23.570Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_BUBBLE_IRR.json",
     "currency": "IRT"
