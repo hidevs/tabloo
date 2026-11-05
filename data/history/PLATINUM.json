@@ -60691,6 +60691,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/14"
+    },
+    {
+      "t": "2026-11-05T20:30:00.000Z",
+      "t_tehran": "2026-11-06T00:00:00+03:30",
+      "open": 1518.7,
+      "high": 1518.7,
+      "low": 1518.7,
+      "close": 1518.7,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/15"
     }
   ],
   "meta": {
@@ -60698,9 +60711,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4662,
+    "count": 4663,
     "next_cursor": null,
-    "published_at": "2026-11-05T17:30:40.099Z",
+    "published_at": "2026-11-05T22:47:49.800Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PLATINUM.json",
     "currency": "USD"
