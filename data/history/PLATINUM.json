@@ -60685,9 +60685,9 @@
       "open": 1504.4,
       "high": 1521.2,
       "low": 1504.4,
-      "close": 1521.2,
+      "close": 1514.8,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/14"
@@ -60700,7 +60700,7 @@
     "unit": "toman",
     "count": 4662,
     "next_cursor": null,
-    "published_at": "2026-11-05T01:41:07.950Z",
+    "published_at": "2026-11-05T09:00:36.638Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PLATINUM.json",
     "currency": "USD"

@@ -42353,10 +42353,10 @@
       "t_tehran": "2026-11-05T00:00:00+03:30",
       "open": 188270,
       "high": 188270,
-      "low": 188270,
-      "close": 188270,
+      "low": 186250,
+      "close": 186250,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/14"
@@ -42369,7 +42369,7 @@
     "unit": "toman",
     "count": 3253,
     "next_cursor": null,
-    "published_at": "2026-11-05T01:41:07.950Z",
+    "published_at": "2026-11-05T09:00:36.638Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AUD_IRR_FREE.json",
     "currency": "IRT"

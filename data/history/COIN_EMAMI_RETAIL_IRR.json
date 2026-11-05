@@ -31335,11 +31335,11 @@
       "t": "2026-11-04T20:30:00.000Z",
       "t_tehran": "2026-11-05T00:00:00+03:30",
       "open": 265610000,
-      "high": 265610000,
+      "high": 266770000,
       "low": 265610000,
-      "close": 265610000,
+      "close": 266770000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/14"
@@ -31352,7 +31352,7 @@
     "unit": "toman",
     "count": 2406,
     "next_cursor": null,
-    "published_at": "2026-11-05T01:41:07.950Z",
+    "published_at": "2026-11-05T09:00:36.638Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
     "currency": "IRT"
