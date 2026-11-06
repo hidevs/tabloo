@@ -58122,6 +58122,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/15"
+    },
+    {
+      "t": "2026-11-06T20:30:00.000Z",
+      "t_tehran": "2026-11-07T00:00:00+03:30",
+      "open": 1021.5,
+      "high": 1021.5,
+      "low": 1021.5,
+      "close": 1021.5,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/16"
     }
   ],
   "meta": {
@@ -58129,9 +58142,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4397,
+    "count": 4398,
     "next_cursor": null,
-    "published_at": "2026-11-06T18:15:30.790Z",
+    "published_at": "2026-11-06T23:25:02.266Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PALLADIUM.json",
     "currency": "USD"
