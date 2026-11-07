@@ -58128,10 +58128,10 @@
       "t_tehran": "2026-11-07T00:00:00+03:30",
       "open": 1021.5,
       "high": 1021.5,
-      "low": 1021.5,
-      "close": 1021.5,
+      "low": 1017,
+      "close": 1017,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/16"
@@ -58144,7 +58144,7 @@
     "unit": "toman",
     "count": 4398,
     "next_cursor": null,
-    "published_at": "2026-11-06T23:25:02.266Z",
+    "published_at": "2026-11-07T03:02:49.604Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PALLADIUM.json",
     "currency": "USD"
