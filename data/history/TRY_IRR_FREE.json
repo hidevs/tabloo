@@ -41633,10 +41633,10 @@
       "t_tehran": "2026-11-08T00:00:00+03:30",
       "open": 5320,
       "high": 5320,
-      "low": 5320,
-      "close": 5320,
+      "low": 5300,
+      "close": 5300,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/17"
@@ -41649,7 +41649,7 @@
     "unit": "toman",
     "count": 3197,
     "next_cursor": null,
-    "published_at": "2026-11-08T06:31:44.404Z",
+    "published_at": "2026-11-08T14:06:31.055Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/TRY_IRR_FREE.json",
     "currency": "IRT"

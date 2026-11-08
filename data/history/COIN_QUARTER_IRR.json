@@ -45041,10 +45041,10 @@
       "t_tehran": "2026-11-08T00:00:00+03:30",
       "open": 72500000,
       "high": 72500000,
-      "low": 72500000,
-      "close": 72500000,
+      "low": 71710000,
+      "close": 71710000,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/17"
@@ -45057,7 +45057,7 @@
     "unit": "toman",
     "count": 3459,
     "next_cursor": null,
-    "published_at": "2026-11-08T06:31:44.404Z",
+    "published_at": "2026-11-08T14:06:31.055Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_IRR.json",
     "currency": "IRT"
