@@ -42499,6 +42499,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/17"
+    },
+    {
+      "t": "2026-11-08T20:30:00.000Z",
+      "t_tehran": "2026-11-09T00:00:00+03:30",
+      "open": 74690,
+      "high": 74690,
+      "low": 74690,
+      "close": 74690,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/18"
     }
   ],
   "meta": {
@@ -42506,9 +42519,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3264,
+    "count": 3265,
     "next_cursor": null,
-    "published_at": "2026-11-08T18:58:24.890Z",
+    "published_at": "2026-11-08T22:44:58.115Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/QAR_IRR_FREE.json",
     "currency": "IRT"
