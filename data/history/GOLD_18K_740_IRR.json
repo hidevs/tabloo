@@ -29077,6 +29077,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/18"
+    },
+    {
+      "t": "2026-11-09T20:30:00.000Z",
+      "t_tehran": "2026-11-10T00:00:00+03:30",
+      "open": 25204000,
+      "high": 25204000,
+      "low": 25204000,
+      "close": 25204000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/19"
     }
   ],
   "meta": {
@@ -29084,9 +29097,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2232,
+    "count": 2233,
     "next_cursor": null,
-    "published_at": "2026-11-09T10:06:49.838Z",
+    "published_at": "2026-11-09T20:58:24.623Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_740_IRR.json",
     "currency": "IRT"

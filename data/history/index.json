@@ -1,6 +1,6 @@
 {
   "meta": {
-    "published_at": "2026-11-09T10:06:49.838Z",
+    "published_at": "2026-11-09T20:58:24.623Z",
     "update_frequency_minutes": 1440,
     "source": "TGJU",
     "total": 128,
@@ -14,11 +14,11 @@
       "category": "currency",
       "file": "history/USD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USD_IRR_FREE.json",
-      "records": 4000,
+      "records": 4001,
       "currency": "IRT",
       "from": "2011-11-25T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "EUR_IRR_FREE",
@@ -27,11 +27,11 @@
       "category": "currency",
       "file": "history/EUR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/EUR_IRR_FREE.json",
-      "records": 3768,
+      "records": 3769,
       "currency": "IRT",
       "from": "2012-06-27T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GBP_IRR_FREE",
@@ -53,11 +53,11 @@
       "category": "currency",
       "file": "history/AED_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AED_IRR_FREE.json",
-      "records": 3698,
+      "records": 3699,
       "currency": "IRT",
       "from": "2012-08-31T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "TRY_IRR_FREE",
@@ -66,11 +66,11 @@
       "category": "currency",
       "file": "history/TRY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/TRY_IRR_FREE.json",
-      "records": 3198,
+      "records": 3199,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "CAD_IRR_FREE",
@@ -79,11 +79,11 @@
       "category": "currency",
       "file": "history/CAD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CAD_IRR_FREE.json",
-      "records": 3260,
+      "records": 3261,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "CHF_IRR_FREE",
@@ -105,11 +105,11 @@
       "category": "currency",
       "file": "history/CNY_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CNY_IRR_FREE.json",
-      "records": 3223,
+      "records": 3224,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "JPY_IRR_FREE",
@@ -131,11 +131,11 @@
       "category": "currency",
       "file": "history/IQD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/IQD_IRR_FREE.json",
-      "records": 2865,
+      "records": 2866,
       "currency": "IRT",
       "from": "2014-07-22T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "AUD_IRR_FREE",
@@ -144,11 +144,11 @@
       "category": "currency",
       "file": "history/AUD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AUD_IRR_FREE.json",
-      "records": 3257,
+      "records": 3258,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "SGD_IRR_FREE",
@@ -157,11 +157,11 @@
       "category": "currency",
       "file": "history/SGD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SGD_IRR_FREE.json",
-      "records": 3361,
+      "records": 3362,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "NZD_IRR_FREE",
@@ -170,11 +170,11 @@
       "category": "currency",
       "file": "history/NZD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/NZD_IRR_FREE.json",
-      "records": 3354,
+      "records": 3355,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "HKD_IRR_FREE",
@@ -183,11 +183,11 @@
       "category": "currency",
       "file": "history/HKD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/HKD_IRR_FREE.json",
-      "records": 3341,
+      "records": 3342,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "AFN_IRR_FREE",
@@ -196,11 +196,11 @@
       "category": "currency",
       "file": "history/AFN_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AFN_IRR_FREE.json",
-      "records": 3314,
+      "records": 3315,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "PKR_IRR_FREE",
@@ -209,11 +209,11 @@
       "category": "currency",
       "file": "history/PKR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PKR_IRR_FREE.json",
-      "records": 3314,
+      "records": 3315,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "RUB_IRR_FREE",
@@ -222,11 +222,11 @@
       "category": "currency",
       "file": "history/RUB_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/RUB_IRR_FREE.json",
-      "records": 3283,
+      "records": 3284,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "INR_IRR_FREE",
@@ -235,11 +235,11 @@
       "category": "currency",
       "file": "history/INR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/INR_IRR_FREE.json",
-      "records": 3269,
+      "records": 3270,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "SAR_IRR_FREE",
@@ -248,11 +248,11 @@
       "category": "currency",
       "file": "history/SAR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SAR_IRR_FREE.json",
-      "records": 3267,
+      "records": 3268,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "QAR_IRR_FREE",
@@ -261,11 +261,11 @@
       "category": "currency",
       "file": "history/QAR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/QAR_IRR_FREE.json",
-      "records": 3265,
+      "records": 3266,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "BHD_IRR_FREE",
@@ -274,11 +274,11 @@
       "category": "currency",
       "file": "history/BHD_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BHD_IRR_FREE.json",
-      "records": 3263,
+      "records": 3264,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "AZN_IRR_FREE",
@@ -287,11 +287,11 @@
       "category": "currency",
       "file": "history/AZN_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AZN_IRR_FREE.json",
-      "records": 3259,
+      "records": 3260,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "OMR_IRR_FREE",
@@ -300,11 +300,11 @@
       "category": "currency",
       "file": "history/OMR_IRR_FREE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/OMR_IRR_FREE.json",
-      "records": 3255,
+      "records": 3256,
       "currency": "IRT",
       "from": "2014-07-20T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "KWD_IRR_FREE",
@@ -339,11 +339,11 @@
       "category": "gold",
       "file": "history/GOLD_18K_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_IRR.json",
-      "records": 3552,
+      "records": 3553,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_24K_IRR",
@@ -352,11 +352,11 @@
       "category": "gold",
       "file": "history/GOLD_24K_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_24K_IRR.json",
-      "records": 3411,
+      "records": 3412,
       "currency": "IRT",
       "from": "2014-05-01T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_USED_IRR",
@@ -378,11 +378,11 @@
       "category": "gold",
       "file": "history/GOLD_MESGHAL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MESGHAL_IRR.json",
-      "records": 3554,
+      "records": 3555,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "XAU_USD",
@@ -391,11 +391,11 @@
       "category": "precious_metal",
       "file": "history/XAU_USD.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
-      "records": 4162,
+      "records": 4163,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "SILVER",
@@ -404,11 +404,11 @@
       "category": "precious_metal",
       "file": "history/SILVER.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SILVER.json",
-      "records": 4167,
+      "records": 4168,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "SILVER_999_IRR",
@@ -430,11 +430,11 @@
       "category": "precious_metal",
       "file": "history/PLATINUM.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PLATINUM.json",
-      "records": 4666,
+      "records": 4667,
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "PALLADIUM",
@@ -443,11 +443,11 @@
       "category": "precious_metal",
       "file": "history/PALLADIUM.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PALLADIUM.json",
-      "records": 4400,
+      "records": 4401,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_EMAMI_IRR",
@@ -456,11 +456,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_IRR.json",
-      "records": 4161,
+      "records": 4162,
       "currency": "IRT",
       "from": "2010-12-31T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_BAHAR_IRR",
@@ -469,11 +469,11 @@
       "category": "coin",
       "file": "history/COIN_BAHAR_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_IRR.json",
-      "records": 3533,
+      "records": 3534,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_HALF_IRR",
@@ -482,11 +482,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_IRR.json",
-      "records": 3475,
+      "records": 3476,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_QUARTER_IRR",
@@ -495,11 +495,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_IRR.json",
-      "records": 3460,
+      "records": 3461,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_GRAMI_IRR",
@@ -508,11 +508,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_IRR.json",
-      "records": 3396,
+      "records": 3397,
       "currency": "IRT",
       "from": "2013-07-21T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_EMAMI_RETAIL_IRR",
@@ -521,11 +521,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_RETAIL_IRR.json",
-      "records": 2410,
+      "records": 2411,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_BAHAR_RETAIL_IRR",
@@ -534,11 +534,11 @@
       "category": "coin",
       "file": "history/COIN_BAHAR_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_RETAIL_IRR.json",
-      "records": 2386,
+      "records": 2387,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_HALF_RETAIL_IRR",
@@ -547,11 +547,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_RETAIL_IRR.json",
-      "records": 2340,
+      "records": 2341,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_QUARTER_RETAIL_IRR",
@@ -560,11 +560,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
-      "records": 2328,
+      "records": 2329,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_GRAMI_RETAIL_IRR",
@@ -573,11 +573,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_RETAIL_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_RETAIL_IRR.json",
-      "records": 2294,
+      "records": 2295,
       "currency": "IRT",
       "from": "2017-07-04T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_EMAMI_BUBBLE_IRR",
@@ -586,11 +586,11 @@
       "category": "coin",
       "file": "history/COIN_EMAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_EMAMI_BUBBLE_IRR.json",
-      "records": 2030,
+      "records": 2031,
       "currency": "IRT",
       "from": "2019-01-04T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_BAHAR_BUBBLE_IRR",
@@ -599,11 +599,11 @@
       "category": "coin",
       "file": "history/COIN_BAHAR_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
-      "records": 2001,
+      "records": 2002,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_HALF_BUBBLE_IRR",
@@ -612,11 +612,11 @@
       "category": "coin",
       "file": "history/COIN_HALF_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_BUBBLE_IRR.json",
-      "records": 1999,
+      "records": 2000,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_QUARTER_BUBBLE_IRR",
@@ -625,11 +625,11 @@
       "category": "coin",
       "file": "history/COIN_QUARTER_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
-      "records": 2000,
+      "records": 2001,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COIN_GRAMI_BUBBLE_IRR",
@@ -638,11 +638,11 @@
       "category": "coin",
       "file": "history/COIN_GRAMI_BUBBLE_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_BUBBLE_IRR.json",
-      "records": 2001,
+      "records": 2002,
       "currency": "IRT",
       "from": "2019-02-11T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_MELTED_WHOLESALE",
@@ -651,11 +651,11 @@
       "category": "gold",
       "file": "history/GOLD_MELTED_WHOLESALE.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MELTED_WHOLESALE.json",
-      "records": 2517,
+      "records": 2518,
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_17",
@@ -664,11 +664,11 @@
       "category": "gold",
       "file": "history/GOLD_17.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_17.json",
-      "records": 2513,
+      "records": 2514,
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_FUTURES",
@@ -677,11 +677,11 @@
       "category": "gold",
       "file": "history/GOLD_FUTURES.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_FUTURES.json",
-      "records": 2237,
+      "records": 2238,
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_WORLD_FUTURES",
@@ -690,11 +690,11 @@
       "category": "gold",
       "file": "history/GOLD_WORLD_FUTURES.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_WORLD_FUTURES.json",
-      "records": 2236,
+      "records": 2237,
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_18K_740_IRR",
@@ -703,11 +703,11 @@
       "category": "gold",
       "file": "history/GOLD_18K_740_IRR.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_740_IRR.json",
-      "records": 2232,
+      "records": 2233,
       "currency": "IRT",
       "from": "2018-03-16T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_17_COIN",
@@ -716,11 +716,11 @@
       "category": "gold",
       "file": "history/GOLD_17_COIN.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_17_COIN.json",
-      "records": 2231,
+      "records": 2232,
       "currency": "IRT",
       "from": "2018-03-17T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "GOLD_MELTED_TRANSFER",
@@ -729,11 +729,11 @@
       "category": "gold",
       "file": "history/GOLD_MELTED_TRANSFER.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MELTED_TRANSFER.json",
-      "records": 1706,
+      "records": 1707,
       "currency": "IRT",
       "from": "2017-04-06T19:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "USDT_IRR",
@@ -1158,11 +1158,11 @@
       "category": "energy",
       "file": "history/BRENT_USD.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BRENT_USD.json",
-      "records": 4531,
+      "records": 4532,
       "currency": "USD",
       "from": "2011-01-01T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "OIL",
@@ -1184,11 +1184,11 @@
       "category": "energy",
       "file": "history/ENERGY_NATURAL_GAS.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/ENERGY_NATURAL_GAS.json",
-      "records": 4169,
+      "records": 4170,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "OPEC_BASKET_USD",
@@ -1210,11 +1210,11 @@
       "category": "energy",
       "file": "history/ENERGY_GASOLINE_RBOB.json",
       "url": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/ENERGY_GASOLINE_RBOB.json",
-      "records": 4120,
+      "records": 4121,
       "currency": "USD",
       "from": "2011-01-02T20:30:00.000Z",
-      "to": "2026-11-08T20:30:00.000Z",
-      "history_published_at": "2026-11-09T10:06:49.838Z"
+      "to": "2026-11-09T20:30:00.000Z",
+      "history_published_at": "2026-11-09T20:58:24.623Z"
     },
     {
       "symbol": "COMMODITY_LONDON_COFFEE",
