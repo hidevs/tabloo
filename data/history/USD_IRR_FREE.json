@@ -52089,11 +52089,11 @@
       "t": "2026-11-08T20:30:00.000Z",
       "t_tehran": "2026-11-09T00:00:00+03:30",
       "open": 264900,
-      "high": 264900,
+      "high": 265005,
       "low": 264900,
-      "close": 264900,
+      "close": 265005,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/18"
@@ -52106,7 +52106,7 @@
     "unit": "toman",
     "count": 4000,
     "next_cursor": null,
-    "published_at": "2026-11-09T02:24:55.423Z",
+    "published_at": "2026-11-09T10:06:49.838Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USD_IRR_FREE.json",
     "currency": "IRT"
