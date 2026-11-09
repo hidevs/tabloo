@@ -31071,7 +31071,7 @@
       "low": 249030000,
       "close": 249030000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/18"
@@ -31084,7 +31084,7 @@
     "unit": "toman",
     "count": 2386,
     "next_cursor": null,
-    "published_at": "2026-11-08T22:44:58.115Z",
+    "published_at": "2026-11-09T02:24:55.423Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_RETAIL_IRR.json",
     "currency": "IRT"
