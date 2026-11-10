@@ -29066,10 +29066,10 @@
       "t_tehran": "2026-11-10T00:00:00+03:30",
       "open": 113836506,
       "high": 113836506,
-      "low": 112549132,
-      "close": 112549132,
+      "low": 111151349,
+      "close": 111151349,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/19"
@@ -29082,7 +29082,7 @@
     "unit": "toman",
     "count": 2232,
     "next_cursor": null,
-    "published_at": "2026-11-10T11:32:44.616Z",
+    "published_at": "2026-11-10T19:23:16.563Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_17_COIN.json",
     "currency": "IRT"
