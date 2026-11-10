@@ -54208,10 +54208,10 @@
       "t_tehran": "2026-11-10T00:00:00+03:30",
       "open": 3.2115,
       "high": 3.2115,
-      "low": 3.2115,
-      "close": 3.2115,
+      "low": 3.2016,
+      "close": 3.2016,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/19"
@@ -54224,7 +54224,7 @@
     "unit": "toman",
     "count": 4170,
     "next_cursor": null,
-    "published_at": "2026-11-09T20:58:24.623Z",
+    "published_at": "2026-11-10T03:20:07.159Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/ENERGY_NATURAL_GAS.json",
     "currency": "USD"

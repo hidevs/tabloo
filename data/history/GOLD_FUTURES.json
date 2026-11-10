@@ -29152,7 +29152,7 @@
       "low": 110281000,
       "close": 110281000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/19"
@@ -29165,7 +29165,7 @@
     "unit": "toman",
     "count": 2238,
     "next_cursor": null,
-    "published_at": "2026-11-09T20:58:24.623Z",
+    "published_at": "2026-11-10T03:20:07.159Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_FUTURES.json",
     "currency": "IRT"
