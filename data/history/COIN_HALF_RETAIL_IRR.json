@@ -30549,6 +30549,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 133990000,
+      "high": 133990000,
+      "low": 133990000,
+      "close": 133990000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -30556,9 +30569,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2342,
+    "count": 2343,
     "next_cursor": null,
-    "published_at": "2026-11-11T06:56:38.924Z",
+    "published_at": "2026-11-11T21:50:07.488Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_RETAIL_IRR.json",
     "currency": "IRT"

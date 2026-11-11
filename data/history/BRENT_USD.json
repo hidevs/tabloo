@@ -58981,6 +58981,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 92.577,
+      "high": 92.577,
+      "low": 92.577,
+      "close": 92.577,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -58988,9 +59001,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4533,
+    "count": 4534,
     "next_cursor": null,
-    "published_at": "2026-11-11T00:11:43.371Z",
+    "published_at": "2026-11-11T21:50:07.488Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/BRENT_USD.json",
     "currency": "USD"

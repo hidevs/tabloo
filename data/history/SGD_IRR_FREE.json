@@ -43780,6 +43780,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/20"
+    },
+    {
+      "t": "2026-11-11T20:30:00.000Z",
+      "t_tehran": "2026-11-12T00:00:00+03:30",
+      "open": 205460,
+      "high": 205460,
+      "low": 205460,
+      "close": 205460,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/21"
     }
   ],
   "meta": {
@@ -43787,9 +43800,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3363,
+    "count": 3364,
     "next_cursor": null,
-    "published_at": "2026-11-11T06:56:38.924Z",
+    "published_at": "2026-11-11T21:50:07.488Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SGD_IRR_FREE.json",
     "currency": "IRT"
