@@ -43165,7 +43165,7 @@
       "low": 4067,
       "close": 4067,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/20"
@@ -43178,7 +43178,7 @@
     "unit": "toman",
     "count": 3316,
     "next_cursor": null,
-    "published_at": "2026-11-11T00:11:43.371Z",
+    "published_at": "2026-11-11T06:56:38.924Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
