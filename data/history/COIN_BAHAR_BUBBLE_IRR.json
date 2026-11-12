@@ -26403,7 +26403,7 @@
       "low": 1825000,
       "close": 1825000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/21"
@@ -26416,7 +26416,7 @@
     "unit": "toman",
     "count": 2004,
     "next_cursor": null,
-    "published_at": "2026-11-11T21:50:07.488Z",
+    "published_at": "2026-11-12T02:42:56.625Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_BUBBLE_IRR.json",
     "currency": "IRT"
