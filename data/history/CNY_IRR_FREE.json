@@ -42010,7 +42010,7 @@
       "low": 40110,
       "close": 40110,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/22"
@@ -42023,7 +42023,7 @@
     "unit": "toman",
     "count": 3227,
     "next_cursor": null,
-    "published_at": "2026-11-12T23:58:51.732Z",
+    "published_at": "2026-11-13T06:23:23.106Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"
