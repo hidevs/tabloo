@@ -42001,6 +42001,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/21"
+    },
+    {
+      "t": "2026-11-12T20:30:00.000Z",
+      "t_tehran": "2026-11-13T00:00:00+03:30",
+      "open": 40110,
+      "high": 40110,
+      "low": 40110,
+      "close": 40110,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/22"
     }
   ],
   "meta": {
@@ -42008,9 +42021,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3226,
+    "count": 3227,
     "next_cursor": null,
-    "published_at": "2026-11-12T18:42:46.821Z",
+    "published_at": "2026-11-12T23:58:51.732Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"
