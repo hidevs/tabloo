@@ -32834,6 +32834,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/22"
+    },
+    {
+      "t": "2026-11-13T20:30:00.000Z",
+      "t_tehran": "2026-11-14T00:00:00+03:30",
+      "open": 108513000,
+      "high": 108513000,
+      "low": 108513000,
+      "close": 108513000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/23"
     }
   ],
   "meta": {
@@ -32841,9 +32854,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2521,
+    "count": 2522,
     "next_cursor": null,
-    "published_at": "2026-11-13T14:49:18.341Z",
+    "published_at": "2026-11-13T21:13:11.237Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MELTED_WHOLESALE.json",
     "currency": "IRT"
