@@ -42019,11 +42019,11 @@
       "t": "2026-11-13T20:30:00.000Z",
       "t_tehran": "2026-11-14T00:00:00+03:30",
       "open": 40110,
-      "high": 40110,
+      "high": 40840,
       "low": 40110,
-      "close": 40110,
+      "close": 40840,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/23"
@@ -42036,7 +42036,7 @@
     "unit": "toman",
     "count": 3228,
     "next_cursor": null,
-    "published_at": "2026-11-14T01:36:11.103Z",
+    "published_at": "2026-11-14T08:39:30.980Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CNY_IRR_FREE.json",
     "currency": "IRT"
