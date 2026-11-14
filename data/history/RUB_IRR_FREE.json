@@ -42797,9 +42797,9 @@
       "open": 3262,
       "high": 3296,
       "low": 3262,
-      "close": 3267,
+      "close": 3264,
       "volume": null,
-      "ticks": 4,
+      "ticks": 5,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/23"
@@ -42812,7 +42812,7 @@
     "unit": "toman",
     "count": 3288,
     "next_cursor": null,
-    "published_at": "2026-11-14T15:36:14.328Z",
+    "published_at": "2026-11-14T20:27:45.469Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/RUB_IRR_FREE.json",
     "currency": "IRT"
