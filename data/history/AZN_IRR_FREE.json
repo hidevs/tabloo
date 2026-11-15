@@ -42507,10 +42507,10 @@
       "t_tehran": "2026-11-15T00:00:00+03:30",
       "open": 158630,
       "high": 158630,
-      "low": 158630,
-      "close": 158630,
+      "low": 156280,
+      "close": 156280,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
@@ -42523,7 +42523,7 @@
     "unit": "toman",
     "count": 3265,
     "next_cursor": null,
-    "published_at": "2026-11-15T06:58:20.006Z",
+    "published_at": "2026-11-15T14:38:52.985Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AZN_IRR_FREE.json",
     "currency": "IRT"

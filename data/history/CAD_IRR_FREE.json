@@ -42526,10 +42526,10 @@
       "t_tehran": "2026-11-15T00:00:00+03:30",
       "open": 189120,
       "high": 189120,
-      "low": 189120,
-      "close": 189120,
+      "low": 186310,
+      "close": 186310,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
@@ -42542,7 +42542,7 @@
     "unit": "toman",
     "count": 3266,
     "next_cursor": null,
-    "published_at": "2026-11-15T06:58:20.006Z",
+    "published_at": "2026-11-15T14:38:52.985Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/CAD_IRR_FREE.json",
     "currency": "IRT"

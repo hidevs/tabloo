@@ -42449,10 +42449,10 @@
       "t_tehran": "2026-11-15T00:00:00+03:30",
       "open": 701760,
       "high": 701760,
-      "low": 701760,
-      "close": 701760,
+      "low": 691360,
+      "close": 691360,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
@@ -42465,7 +42465,7 @@
     "unit": "toman",
     "count": 3261,
     "next_cursor": null,
-    "published_at": "2026-11-15T06:58:20.006Z",
+    "published_at": "2026-11-15T14:38:52.985Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/OMR_IRR_FREE.json",
     "currency": "IRT"

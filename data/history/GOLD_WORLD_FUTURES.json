@@ -29200,10 +29200,10 @@
       "t_tehran": "2026-11-15T00:00:00+03:30",
       "open": 107505000,
       "high": 107505000,
-      "low": 107505000,
-      "close": 107505000,
+      "low": 106733000,
+      "close": 106733000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
@@ -29216,7 +29216,7 @@
     "unit": "toman",
     "count": 2242,
     "next_cursor": null,
-    "published_at": "2026-11-15T06:58:20.006Z",
+    "published_at": "2026-11-15T14:38:52.985Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_WORLD_FUTURES.json",
     "currency": "IRT"
