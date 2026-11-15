@@ -42484,9 +42484,9 @@
       "open": 182810,
       "high": 182810,
       "low": 180090,
-      "close": 180090,
+      "close": 180160,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
@@ -42499,7 +42499,7 @@
     "unit": "toman",
     "count": 3263,
     "next_cursor": null,
-    "published_at": "2026-11-15T14:38:52.985Z",
+    "published_at": "2026-11-15T20:10:45.515Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AUD_IRR_FREE.json",
     "currency": "IRT"
