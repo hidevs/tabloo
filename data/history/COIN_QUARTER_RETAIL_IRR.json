@@ -30396,6 +30396,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/23"
+    },
+    {
+      "t": "2026-11-14T20:30:00.000Z",
+      "t_tehran": "2026-11-15T00:00:00+03:30",
+      "open": 72770000,
+      "high": 72770000,
+      "low": 72770000,
+      "close": 72770000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/24"
     }
   ],
   "meta": {
@@ -30403,9 +30416,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2333,
+    "count": 2334,
     "next_cursor": null,
-    "published_at": "2026-11-14T20:27:45.469Z",
+    "published_at": "2026-11-15T00:07:29.592Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
     "currency": "IRT"
