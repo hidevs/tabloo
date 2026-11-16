@@ -37628,10 +37628,10 @@
       "t_tehran": "2026-11-16T00:00:00+03:30",
       "open": 175,
       "high": 175,
-      "low": 175,
-      "close": 175,
+      "low": 172.6,
+      "close": 172.6,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/25"
@@ -37644,7 +37644,7 @@
     "unit": "toman",
     "count": 2872,
     "next_cursor": null,
-    "published_at": "2026-11-16T07:04:20.978Z",
+    "published_at": "2026-11-16T17:18:29.049Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/IQD_IRR_FREE.json",
     "currency": "IRT"
