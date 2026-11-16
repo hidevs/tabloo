@@ -46349,6 +46349,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/24"
+    },
+    {
+      "t": "2026-11-15T20:30:00.000Z",
+      "t_tehran": "2026-11-16T00:00:00+03:30",
+      "open": 106379000,
+      "high": 106379000,
+      "low": 106379000,
+      "close": 106379000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/25"
     }
   ],
   "meta": {
@@ -46356,9 +46369,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3560,
+    "count": 3561,
     "next_cursor": null,
-    "published_at": "2026-11-15T20:10:45.515Z",
+    "published_at": "2026-11-16T00:11:31.807Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MESGHAL_IRR.json",
     "currency": "IRT"
