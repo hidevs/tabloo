@@ -30429,9 +30429,9 @@
       "open": 71490000,
       "high": 72500000,
       "low": 71490000,
-      "close": 72500000,
+      "close": 72210000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/26"
@@ -30444,7 +30444,7 @@
     "unit": "toman",
     "count": 2336,
     "next_cursor": null,
-    "published_at": "2026-11-17T08:57:41.187Z",
+    "published_at": "2026-11-17T18:20:09.060Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
     "currency": "IRT"

@@ -49162,10 +49162,10 @@
       "t_tehran": "2026-11-17T00:00:00+03:30",
       "open": 296390,
       "high": 296390,
-      "low": 296100,
-      "close": 296100,
+      "low": 294440,
+      "close": 294440,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/26"
@@ -49178,7 +49178,7 @@
     "unit": "toman",
     "count": 3776,
     "next_cursor": null,
-    "published_at": "2026-11-17T08:57:41.187Z",
+    "published_at": "2026-11-17T18:20:09.060Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/EUR_IRR_FREE.json",
     "currency": "IRT"
