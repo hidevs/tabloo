@@ -43781,6 +43781,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/26"
+    },
+    {
+      "t": "2026-11-17T20:30:00.000Z",
+      "t_tehran": "2026-11-18T00:00:00+03:30",
+      "open": 146860,
+      "high": 146860,
+      "low": 146860,
+      "close": 146860,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/27"
     }
   ],
   "meta": {
@@ -43788,9 +43801,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3362,
+    "count": 3363,
     "next_cursor": null,
-    "published_at": "2026-11-17T18:20:09.060Z",
+    "published_at": "2026-11-18T01:10:00.991Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/NZD_IRR_FREE.json",
     "currency": "IRT"
