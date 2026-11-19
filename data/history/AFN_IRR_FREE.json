@@ -43265,11 +43265,11 @@
       "t": "2026-11-18T20:30:00.000Z",
       "t_tehran": "2026-11-19T00:00:00+03:30",
       "open": 4101,
-      "high": 4101,
+      "high": 4251,
       "low": 4101,
-      "close": 4101,
+      "close": 4251,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/28"
@@ -43282,7 +43282,7 @@
     "unit": "toman",
     "count": 3324,
     "next_cursor": null,
-    "published_at": "2026-11-19T06:28:19.566Z",
+    "published_at": "2026-11-19T15:58:25.767Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
