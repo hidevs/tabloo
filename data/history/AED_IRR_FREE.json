@@ -48268,6 +48268,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/27"
+    },
+    {
+      "t": "2026-11-18T20:30:00.000Z",
+      "t_tehran": "2026-11-19T00:00:00+03:30",
+      "open": 72566,
+      "high": 72566,
+      "low": 72566,
+      "close": 72566,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/28"
     }
   ],
   "meta": {
@@ -48275,9 +48288,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3707,
+    "count": 3708,
     "next_cursor": null,
-    "published_at": "2026-11-18T17:50:04.885Z",
+    "published_at": "2026-11-19T00:01:40.397Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AED_IRR_FREE.json",
     "currency": "IRT"
