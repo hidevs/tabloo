@@ -43286,6 +43286,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/29"
+    },
+    {
+      "t": "2026-11-20T20:30:00.000Z",
+      "t_tehran": "2026-11-21T00:00:00+03:30",
+      "open": 4251,
+      "high": 4251,
+      "low": 4251,
+      "close": 4251,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/08/30"
     }
   ],
   "meta": {
@@ -43293,9 +43306,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 3325,
+    "count": 3326,
     "next_cursor": null,
-    "published_at": "2026-11-20T12:37:02.979Z",
+    "published_at": "2026-11-20T20:56:43.691Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
