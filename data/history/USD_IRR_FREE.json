@@ -52249,7 +52249,7 @@
       "low": 269970,
       "close": 269970,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/30"
@@ -52262,7 +52262,7 @@
     "unit": "toman",
     "count": 4012,
     "next_cursor": null,
-    "published_at": "2026-11-20T20:56:43.691Z",
+    "published_at": "2026-11-21T02:00:34.231Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/USD_IRR_FREE.json",
     "currency": "IRT"
