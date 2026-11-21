@@ -44378,10 +44378,10 @@
       "t_tehran": "2026-11-21T00:00:00+03:30",
       "open": 36000000,
       "high": 36000000,
-      "low": 36000000,
-      "close": 36000000,
+      "low": 33000000,
+      "close": 33000000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/08/30"
@@ -44394,7 +44394,7 @@
     "unit": "toman",
     "count": 3408,
     "next_cursor": null,
-    "published_at": "2026-11-21T02:00:34.231Z",
+    "published_at": "2026-11-21T09:37:33.197Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_IRR.json",
     "currency": "IRT"
