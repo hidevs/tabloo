@@ -30492,11 +30492,11 @@
       "t": "2026-11-21T20:30:00.000Z",
       "t_tehran": "2026-11-22T00:00:00+03:30",
       "open": 67380000,
-      "high": 67380000,
+      "high": 69340000,
       "low": 67380000,
-      "close": 67380000,
+      "close": 69340000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/01"
@@ -30509,7 +30509,7 @@
     "unit": "toman",
     "count": 2341,
     "next_cursor": null,
-    "published_at": "2026-11-22T02:30:30.310Z",
+    "published_at": "2026-11-22T10:11:57.062Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_RETAIL_IRR.json",
     "currency": "IRT"
