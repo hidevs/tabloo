@@ -48313,10 +48313,10 @@
       "t_tehran": "2026-11-22T00:00:00+03:30",
       "open": 73274,
       "high": 73274,
-      "low": 73135,
-      "close": 73135,
+      "low": 72837,
+      "close": 72837,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/01"
@@ -48329,7 +48329,7 @@
     "unit": "toman",
     "count": 3711,
     "next_cursor": null,
-    "published_at": "2026-11-22T10:11:57.062Z",
+    "published_at": "2026-11-22T17:59:04.518Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AED_IRR_FREE.json",
     "currency": "IRT"

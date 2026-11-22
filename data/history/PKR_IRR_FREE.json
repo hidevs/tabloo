@@ -43318,10 +43318,10 @@
       "t_tehran": "2026-11-22T00:00:00+03:30",
       "open": 992.1,
       "high": 992.1,
-      "low": 990.3,
-      "close": 990.3,
+      "low": 986.3,
+      "close": 986.3,
       "volume": null,
-      "ticks": 3,
+      "ticks": 4,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/01"
@@ -43334,7 +43334,7 @@
     "unit": "toman",
     "count": 3327,
     "next_cursor": null,
-    "published_at": "2026-11-22T10:11:57.062Z",
+    "published_at": "2026-11-22T17:59:04.518Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PKR_IRR_FREE.json",
     "currency": "IRT"
