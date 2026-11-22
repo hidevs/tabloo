@@ -49230,7 +49230,7 @@
       "low": 295560,
       "close": 295560,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/01"
@@ -49243,7 +49243,7 @@
     "unit": "toman",
     "count": 3781,
     "next_cursor": null,
-    "published_at": "2026-11-21T22:17:50.128Z",
+    "published_at": "2026-11-22T02:30:30.310Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/EUR_IRR_FREE.json",
     "currency": "IRT"

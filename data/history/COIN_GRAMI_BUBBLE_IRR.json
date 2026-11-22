@@ -26233,7 +26233,7 @@
       "low": 5480000,
       "close": 5480000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/01"
@@ -26246,7 +26246,7 @@
     "unit": "toman",
     "count": 2014,
     "next_cursor": null,
-    "published_at": "2026-11-21T22:17:50.128Z",
+    "published_at": "2026-11-22T02:30:30.310Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_BUBBLE_IRR.json",
     "currency": "IRT"
