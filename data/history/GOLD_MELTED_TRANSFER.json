@@ -22403,7 +22403,7 @@
       "low": 101619000,
       "close": 101619000,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/02"
@@ -22416,7 +22416,7 @@
     "unit": "toman",
     "count": 1720,
     "next_cursor": null,
-    "published_at": "2026-11-22T23:32:03.986Z",
+    "published_at": "2026-11-23T05:58:29.721Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_MELTED_TRANSFER.json",
     "currency": "IRT"
