@@ -42687,10 +42687,10 @@
       "t_tehran": "2026-11-23T00:00:00+03:30",
       "open": 75360,
       "high": 75360,
-      "low": 75360,
-      "close": 75360,
+      "low": 73590,
+      "close": 73590,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/02"
@@ -42703,7 +42703,7 @@
     "unit": "toman",
     "count": 3279,
     "next_cursor": null,
-    "published_at": "2026-11-23T05:58:29.721Z",
+    "published_at": "2026-11-23T17:52:39.294Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/QAR_IRR_FREE.json",
     "currency": "IRT"

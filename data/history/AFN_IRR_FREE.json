@@ -43317,11 +43317,11 @@
       "t": "2026-11-22T20:30:00.000Z",
       "t_tehran": "2026-11-23T00:00:00+03:30",
       "open": 4116,
-      "high": 4116,
+      "high": 4175,
       "low": 4116,
-      "close": 4116,
+      "close": 4175,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/02"
@@ -43334,7 +43334,7 @@
     "unit": "toman",
     "count": 3328,
     "next_cursor": null,
-    "published_at": "2026-11-23T05:58:29.721Z",
+    "published_at": "2026-11-23T17:52:39.294Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/AFN_IRR_FREE.json",
     "currency": "IRT"
