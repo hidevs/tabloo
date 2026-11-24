@@ -54401,6 +54401,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/03"
+    },
+    {
+      "t": "2026-11-24T20:30:00.000Z",
+      "t_tehran": "2026-11-25T00:00:00+03:30",
+      "open": 40.94,
+      "high": 40.94,
+      "low": 40.94,
+      "close": 40.94,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/04"
     }
   ],
   "meta": {
@@ -54408,9 +54421,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4182,
+    "count": 4183,
     "next_cursor": null,
-    "published_at": "2026-11-24T14:36:09.206Z",
+    "published_at": "2026-11-24T23:47:36.673Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SILVER.json",
     "currency": "USD"
