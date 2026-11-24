@@ -54337,10 +54337,10 @@
       "t_tehran": "2026-11-24T00:00:00+03:30",
       "open": 3632.91,
       "high": 3632.91,
-      "low": 3632.91,
-      "close": 3632.91,
+      "low": 3618.64,
+      "close": 3618.64,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/03"
@@ -54353,7 +54353,7 @@
     "unit": "toman",
     "count": 4177,
     "next_cursor": null,
-    "published_at": "2026-11-24T03:51:35.697Z",
+    "published_at": "2026-11-24T14:36:09.206Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
     "currency": "USD"
