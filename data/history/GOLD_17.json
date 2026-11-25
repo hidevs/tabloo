@@ -32926,11 +32926,11 @@
       "t": "2026-11-24T20:30:00.000Z",
       "t_tehran": "2026-11-25T00:00:00+03:30",
       "open": 105757300,
-      "high": 105757300,
+      "high": 106140600,
       "low": 105757300,
-      "close": 105757300,
+      "close": 106140600,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
@@ -32943,7 +32943,7 @@
     "unit": "toman",
     "count": 2529,
     "next_cursor": null,
-    "published_at": "2026-11-25T07:13:16.319Z",
+    "published_at": "2026-11-25T18:06:59.774Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_17.json",
     "currency": "IRT"

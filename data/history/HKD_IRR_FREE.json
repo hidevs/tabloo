@@ -43694,11 +43694,11 @@
       "t": "2026-11-24T20:30:00.000Z",
       "t_tehran": "2026-11-25T00:00:00+03:30",
       "open": 36160,
-      "high": 36160,
+      "high": 37450,
       "low": 36160,
-      "close": 36160,
+      "close": 37450,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
@@ -43711,7 +43711,7 @@
     "unit": "toman",
     "count": 3357,
     "next_cursor": null,
-    "published_at": "2026-11-25T07:13:16.319Z",
+    "published_at": "2026-11-25T18:06:59.774Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/HKD_IRR_FREE.json",
     "currency": "IRT"
