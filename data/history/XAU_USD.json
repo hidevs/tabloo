@@ -54357,6 +54357,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/04"
+    },
+    {
+      "t": "2026-11-25T20:30:00.000Z",
+      "t_tehran": "2026-11-26T00:00:00+03:30",
+      "open": 3562.03,
+      "high": 3562.03,
+      "low": 3562.03,
+      "close": 3562.03,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/05"
     }
   ],
   "meta": {
@@ -54364,9 +54377,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 4178,
+    "count": 4179,
     "next_cursor": null,
-    "published_at": "2026-11-25T18:06:59.774Z",
+    "published_at": "2026-11-26T01:54:35.989Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/XAU_USD.json",
     "currency": "USD"
