@@ -43968,10 +43968,10 @@
       "t_tehran": "2026-11-26T00:00:00+03:30",
       "open": 227210,
       "high": 227210,
-      "low": 227210,
-      "close": 227210,
+      "low": 227080,
+      "close": 227080,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
@@ -43984,7 +43984,7 @@
     "unit": "toman",
     "count": 3378,
     "next_cursor": null,
-    "published_at": "2026-11-26T01:54:35.989Z",
+    "published_at": "2026-11-26T10:30:26.603Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SGD_IRR_FREE.json",
     "currency": "IRT"
