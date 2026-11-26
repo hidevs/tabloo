@@ -26282,10 +26282,10 @@
       "t_tehran": "2026-11-26T00:00:00+03:30",
       "open": 8590000,
       "high": 8590000,
-      "low": 7805000,
-      "close": 7805000,
+      "low": 7746000,
+      "close": 7746000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
@@ -26298,7 +26298,7 @@
     "unit": "toman",
     "count": 2018,
     "next_cursor": null,
-    "published_at": "2026-11-26T10:30:26.603Z",
+    "published_at": "2026-11-26T19:47:46.984Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_GRAMI_BUBBLE_IRR.json",
     "currency": "IRT"

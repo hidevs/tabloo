@@ -29290,11 +29290,11 @@
       "t": "2026-11-25T20:30:00.000Z",
       "t_tehran": "2026-11-26T00:00:00+03:30",
       "open": 25135900,
-      "high": 25419700,
+      "high": 25453800,
       "low": 25135900,
-      "close": 25419700,
+      "close": 25453800,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
@@ -29307,7 +29307,7 @@
     "unit": "toman",
     "count": 2249,
     "next_cursor": null,
-    "published_at": "2026-11-26T10:30:26.603Z",
+    "published_at": "2026-11-26T19:47:46.984Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/GOLD_18K_740_IRR.json",
     "currency": "IRT"

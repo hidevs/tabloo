@@ -30738,9 +30738,9 @@
       "open": 140340000,
       "high": 142510000,
       "low": 140340000,
-      "close": 142510000,
+      "close": 142060000,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
@@ -30753,7 +30753,7 @@
     "unit": "toman",
     "count": 2357,
     "next_cursor": null,
-    "published_at": "2026-11-26T10:30:26.603Z",
+    "published_at": "2026-11-26T19:47:46.984Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_HALF_RETAIL_IRR.json",
     "currency": "IRT"
