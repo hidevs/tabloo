@@ -60969,11 +60969,11 @@
       "t": "2026-11-26T20:30:00.000Z",
       "t_tehran": "2026-11-27T00:00:00+03:30",
       "open": 1323.3,
-      "high": 1323.3,
+      "high": 1339.4,
       "low": 1323.3,
-      "close": 1323.3,
+      "close": 1339.4,
       "volume": null,
-      "ticks": 1,
+      "ticks": 2,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/06"
@@ -60986,7 +60986,7 @@
     "unit": "toman",
     "count": 4684,
     "next_cursor": null,
-    "published_at": "2026-11-27T02:41:23.040Z",
+    "published_at": "2026-11-27T11:49:08.841Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/PLATINUM.json",
     "currency": "USD"
