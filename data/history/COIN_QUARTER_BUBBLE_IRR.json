@@ -26392,6 +26392,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
+    },
+    {
+      "t": "2026-11-26T20:30:00.000Z",
+      "t_tehran": "2026-11-27T00:00:00+03:30",
+      "open": 16162000,
+      "high": 16162000,
+      "low": 16162000,
+      "close": 16162000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/06"
     }
   ],
   "meta": {
@@ -26399,9 +26412,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2017,
+    "count": 2018,
     "next_cursor": null,
-    "published_at": "2026-11-26T19:47:46.984Z",
+    "published_at": "2026-11-27T02:41:23.040Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_QUARTER_BUBBLE_IRR.json",
     "currency": "IRT"

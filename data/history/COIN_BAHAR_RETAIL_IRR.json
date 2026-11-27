@@ -31296,6 +31296,19 @@
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/05"
+    },
+    {
+      "t": "2026-11-26T20:30:00.000Z",
+      "t_tehran": "2026-11-27T00:00:00+03:30",
+      "open": 256160000,
+      "high": 256160000,
+      "low": 256160000,
+      "close": 256160000,
+      "volume": null,
+      "ticks": 1,
+      "origin": "source",
+      "quality": [],
+      "date_jalali": "1405/09/06"
     }
   ],
   "meta": {
@@ -31303,9 +31316,9 @@
     "interval": "1d",
     "source": "TGJU",
     "unit": "toman",
-    "count": 2403,
+    "count": 2404,
     "next_cursor": null,
-    "published_at": "2026-11-26T19:47:46.984Z",
+    "published_at": "2026-11-27T02:41:23.040Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/COIN_BAHAR_RETAIL_IRR.json",
     "currency": "IRT"
