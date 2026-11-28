@@ -54449,7 +54449,7 @@
       "low": 43.74,
       "close": 43.74,
       "volume": null,
-      "ticks": 2,
+      "ticks": 3,
       "origin": "source",
       "quality": [],
       "date_jalali": "1405/09/07"
@@ -54462,7 +54462,7 @@
     "unit": "toman",
     "count": 4186,
     "next_cursor": null,
-    "published_at": "2026-11-28T03:06:47.638Z",
+    "published_at": "2026-11-28T12:10:22.723Z",
     "update_frequency_minutes": 1440,
     "public_file": "https://raw.githubusercontent.com/hidevs/tabloo/main/data/history/SILVER.json",
     "currency": "USD"
